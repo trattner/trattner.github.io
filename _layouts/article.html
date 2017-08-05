@@ -2,7 +2,9 @@
 
   <div class="container">
     <div class="article">
-      {% include post_content.html%}
+      {% if post %}
+        {% include post_content.html%}
+      {% endif %}
     </div>
     {% include read_more.html %}
     {% include about_head.html %}
