@@ -83,6 +83,8 @@ a.archive-title{
 .clipping-wrapper{
   width: 30%;
   display: inline-table;
+  border-style: solid;
+  border-width: 2px;
 }
 
 .clipping-body{
