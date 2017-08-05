@@ -25,11 +25,15 @@ h1.post-title{
 }
 
 p.read-more{
+  margin: auto;
   font-family: 'Montserrat', sans-serif;
+  text-align: right;
+  width: 55%;
+  padding: 40px;
 }
 
 a {
-  color: #c4aaff;
+  color: #4020d6;
   text-decoration: none;
 }
 
@@ -38,10 +42,14 @@ a:hover {
 }
 
 .icon-container{
+  display: block;
   margin: auto;
+  width: 100px;
 }
 
 img.about-head{
+  width: 100px;
+  height: 100px;
   opacity: 0.4;
   filter: alpha(opacity=40); /* For IE8 and earlier */
 }
@@ -69,11 +77,13 @@ a.archive-title{
 
 .clipping-wrapper{
   width: 30%;
+  display: inline-table;
 }
 
 .clipping-body{
   margin:auto;
-  font-size: 20px;
+  font-size: 22px;
+  font-style: italic;
   text-align: center;
   font-family: 'Droid Sans', sans-serif;
 }
