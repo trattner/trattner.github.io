@@ -113,9 +113,9 @@ a.archive-title{
 }
 
 .timeline-container{
-  background-color: #333;
+  /* background-color: #333;
   overflow: auto;
-  white-space: nowrap;
+  white-space: nowrap; */
 }
 
 .timeline-wrapper{

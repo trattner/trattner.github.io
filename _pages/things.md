@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: Things
+title: Read More Things
 permalink: /things/
 ---
