@@ -2,7 +2,7 @@
 
   <div class="container">
     <div class="clippings">
-      {% for post in site.clippings %}
+      {% for clipping in site.clippings %}
         {% assign content = clipping.content %}
         {% include clipping.html %}
       {% endfor %}
