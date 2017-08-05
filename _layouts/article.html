@@ -2,9 +2,17 @@
 
   <div class="container">
     <div class="article">
-      {% if post %}
-        {% include post_content.html%}
-      {% endif %}
+      <article>
+        <div class="post-date">
+          {{ post.date | date: "%m/%d/%y" }}
+        </div>
+        <h1 class="post-title">
+          {{ post.title }}
+        </h1>
+        <div class="post-body">
+          {{ content }}
+        </div>
+      </article>
     </div>
     {% include read_more.html %}
     {% include about_head.html %}
