@@ -2,7 +2,7 @@
 
   <div class="container">
     <div class="archive-list">
-      {% for post site.posts %}
+      {% for post in site.posts %}
         {% include title-tile.html %}
       {% endfor %}
     </div>
