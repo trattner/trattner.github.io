@@ -16,6 +16,7 @@
 
 h1.post-title{
   font-size: 32px;
+  font-style: bold;
 }
 
 .post-date{
@@ -70,6 +71,7 @@ img.about-head:hover{
 
 a.archive-title{
   font-size: 24px;
+  padding-bottom: 15px;
 }
 
 .clippings{
