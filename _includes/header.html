@@ -8,6 +8,17 @@
     <meta content="yes" name="apple-mobile-web-app-capable">
     <meta name="description" content= {{ site.data.global.description }}>
 
+    <!-- Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-104170625-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+
     <!-- Open Graph Protocol (Social Media) -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content={{ site.data.global.site-name }} />
@@ -31,6 +42,9 @@
     <!-- Styles -->
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/style.css">
-
+    <!--[if lte IE 9]>
+    <script src="masonry.pkgd.min.js"></script>
+    <![endif]-->
+    
 </head>
 <body>
