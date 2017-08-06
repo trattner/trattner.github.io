@@ -46,6 +46,7 @@ a:hover {
   display: block;
   margin: auto;
   width: 100px;
+  padding-bottom: 75px;
 }
 
 img.about-head{
