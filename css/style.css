@@ -75,22 +75,24 @@ a.archive-title{
 }
 
 .clippings{
-  margin: auto;
-  width: 90%;
-  display: -webkit-flex; /* Safari */
-  -webkit-align-items: center; /* Safari 7.0+ */
-  display: flex;
-  align-items: center;
-  padding-top: 130px;
-  column-count: 4;
-  column-gap: 2em;
+  -moz-column-count: 3;
+  -webkit-column-count: 3;
+  column-count: 3;
 }
 
 .clipping-wrapper{
-  background-color: #eee;
-  margin: 0 0 1em;
   display: inline-block;
+  background: #fff;
+  padding: 1.5em;
+  margin: 0 0 1.5em;
   width: 100%;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.18);
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
 }
 
 .clipping-body{
