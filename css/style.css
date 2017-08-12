@@ -19,7 +19,7 @@ h1.post-title{
 }
 
 .post-date{
-  font-size: 18px;
+  font-size: 16px;
   margin: auto;
   text-align: right;
   color: #5b5b5b;
@@ -31,7 +31,7 @@ p.read-more{
   text-align: right;
   width: 55%;
   padding: 40px;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 a {
@@ -85,14 +85,9 @@ a.archive-title{
   display: inline-block;
   background: #fff;
   padding: 2.5em;
-  margin: 0 0 1.5em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
   width: 100%;
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  border-radius: 3px;
-  -moz-border-radius: 3px;
-  -webkit-border-radius: 3px;
 }
 
 .clipping-body{
@@ -106,6 +101,7 @@ a.archive-title{
   margin:auto;
   text-align: right;
   font-family: 'Montserrat', sans-serif;
+  padding-top: 12px;
 }
 
 .clipping-credentials{
@@ -113,6 +109,15 @@ a.archive-title{
   margin:auto;
   text-align: right;
   font-family: 'Montserrat', sans-serif;
+}
+
+.contribute{
+  text-align: center;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  padding-top: 20px;
+  padding-bottom: 40px;
 }
 
 .contact-panel-wrapper{
