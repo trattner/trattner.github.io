@@ -121,8 +121,9 @@ a.archive-title{
 }
 
 .contact-panel-wrapper{
-  margin: auto;
-  display: block;
+  width: 100%;
+  padding: 10px;
+  align-items: center;
 }
 
 .contact-icon{
