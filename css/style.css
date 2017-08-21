@@ -121,7 +121,13 @@ a.archive-title{
 }
 
 .contact-panel-wrapper{
+  margin: auto;
+  display: block;
+}
 
+.contact-icon{
+  width: 50px;
+  padding: 10px;
 }
 
 .timeline-container{
@@ -158,5 +164,4 @@ a.archive-title{
 
 img.not-telling-img{
   width: 500px;
-  height: 500px;
 }

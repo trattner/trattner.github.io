@@ -1,8 +1,9 @@
 <div class="contact-panel-wrapper">
-  contact panel:
-  Facebook
-  Twitter
-  LinkedIn
-  Github
-  Email
+  {% for icon in social-icons %}
+    <div class="contact-icon">
+      <a href="{{ site.data.global.icon.url }}">
+        {% include {{ icon.class | prepend: '/img/contact-panel/' | append: '.svg' }} %}
+      </a>
+    </div>
+  {% endfor %}
 </div>
