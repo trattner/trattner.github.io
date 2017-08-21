@@ -1,11 +1,11 @@
 social-icons:
  - class: email
-   url: mailto: contact@andytrattner.com
+   url: "mailto: contact@andytrattner.com"
  - class: github
-   url: https://github.com/trattner
+   url: "https://github.com/trattner"
  - class: facebook
-   url: https://facebook.com/andytratt
+   url: "https://facebook.com/andytratt"
  - class: linkedin
-   url: https://www.linkedin.com/in/atratt
+   url: "https://www.linkedin.com/in/atratt"
  - class: twitter
-   url: https://twitter.com/trattqueen
+   url: "https://twitter.com/trattqueen"

@@ -3,15 +3,3 @@ title: 'Andy Trattner'
 site-name: 'ALT Thoughts'
 description: 'ALT Thoughts - Andy Trattner&#39;s blog.'
 url: 'https://trattner.github.io' # the base hostname & protocol for your site
-
-social-icons:
- - class: email
-   url: mailto: contact@andytrattner.com
- - class: github
-   url: https://github.com/trattner
- - class: facebook
-   url: https://facebook.com/andytratt
- - class: linkedin
-   url: https://www.linkedin.com/in/atratt
- - class: twitter
-   url: https://twitter.com/trattqueen

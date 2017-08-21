@@ -1,7 +1,7 @@
 <div class="contact-panel-wrapper">
   {% for icon in site.data.contact-panel.social-icons %}
     <div class="contact-icon">
-      <a href="{{ icon.url }}">
+      <a href= {{ icon.url }} >
         {% include {{ icon.class | prepend: '/img/contact-panel/' | append: '.svg' }} %}
       </a>
     </div>
