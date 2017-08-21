@@ -1,6 +1,19 @@
 {% include header.html %}
 
   <div class="container">
+    <div class="not-telling">
+      {% include not_telling.html %}
+    </div>
+    {% include read_more.html %}
+    {% include contact_panel.html %}
+  </div>
+
+{% include footer.html %}
+
+<!--
+{% include header.html %}
+
+  <div class="container">
     <div class="clippings">
       {% for clipping in site.clippings %}
         {% assign content = clipping.content %}
@@ -15,3 +28,4 @@
   </div>
 
 {% include footer.html %}
+-->
