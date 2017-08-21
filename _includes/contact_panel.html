@@ -1,8 +1,8 @@
 <div class="contact-panel-wrapper">
-  {% for icon in site.data.contact-panel.social-icons %}
+  {% for thing in site.social %}
     <div class="contact-icon">
-      <a href= {{ icon.url }} target="_blank">
-        {% include {{ icon.class | prepend: '/img/contact-panel/' | append: '.svg' }} %}
+      <a href= {{ thing.url }} target="_blank">
+        {% include {{ thing.icon | prepend: '/img/contact-panel/' | append: '.svg' }} %}
       </a>
     </div>
   {% endfor %}
