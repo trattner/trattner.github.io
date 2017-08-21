@@ -133,3 +133,30 @@ a.archive-title{
 .timeline-wrapper{
 
 }
+
+.not-telling{
+
+}
+
+.not-telling-wrapper{
+  text-align: center;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.not-telling-text{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+
+.not-telling-img-container{
+  display: block;
+  margin: auto;
+  width: 500px;
+}
+
+img.not-telling-img{
+  width: 500px;
+  height: 500px;
+}
