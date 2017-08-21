@@ -1,6 +1,6 @@
 social-icons:
  - class: email
-   url: "mailto: contact@andytrattner.com"
+   url: "contact@andytrattner.com"
  - class: github
    url: "https://github.com/trattner"
  - class: facebook
