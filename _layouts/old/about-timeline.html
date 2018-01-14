@@ -1,4 +1,5 @@
 {% include header.html %}
+
   <div class="container">
     <div class="clippings">
       {% for clipping in site.clippings %}
@@ -6,13 +7,8 @@
         {% include clipping.html %}
       {% endfor %}
     </div>
-    <div class="contribute">
-      <a href="https://goo.gl/forms/ZGbdcQxdsgYDSP392">add a quote</a>
-    </div>
     <div class="timeline-container">
       {% include timeline.html %}
-    <div class="not-telling">
-      {% include not_telling.html %}
     </div>
     {% include read_more.html %}
     {% include contact_panel.html %}

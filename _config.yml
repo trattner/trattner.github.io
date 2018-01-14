@@ -8,6 +8,7 @@ data_dir: ./_data
 #collections
 collections:
   - clippings
+  - social
 
 # Handling Reading
 safe:         false
