@@ -33,3 +33,32 @@ Microwave on high for 3 minutes. Perhaps put a paper towel underneath if your mu
 I like to dump my mug cake into a bowl or onto a plate, and then coat completely in Nutella. If you had them, you probably should have put some chocolate chips into the batter, but honestly the dough was so good without them when I did this. Enjoy!
 
 Let me know if you try this recipe! Would love real people suggestions for portions of ingredients or any improvements! mugcake (at) atratt (dot) com
+
+
+### EDIT 1/28/18
+Tried using this recipe I typed! Pictures below. Couple notes:
+
+- turns out almost the same, but just ever so slightly on the souffle side. to make heavier, perhaps use a tad more oats, flour, flax or just half an egg. more dry ingredients will make it huge, so use a big mug or a bit less of all ingredients. Also, as I type the souffle goes away--maybe just let it cool for 4 minutes instead of shoveling your mouth with hot molten cake like I just did. HOT.
+- 3 minutes may be 15 seconds too long if your microwave is strong. BUT, don't panic when the cake rises over the rim...let it stay that way and cook for a while. It will settle back down when the microwave turns off. I think I took it out at 2:10 or 2:30 and it was slightly underdone.
+- Try apricot jam or other toppings besides Nutella! So versatile.
+- Manuj, we should definitely open a restaurant for mug cakes.
+- it's no fun to actually measur out ingredients.
+- Nutella keeps very well. Expiration dates mean nothing except an excuse to buy more Nutella.
+- consistency pre-microwave was slightly more liquidy than expected, but it cooks away nicely.
+
+![top view][top]
+
+![dumping!][starting]
+
+![there it is!][out]
+
+![why not more photo][plating]
+
+![wow][nutella]
+
+
+[nutella]: /img/mug-cake/cake-w-nutella.jpg#M "mmm"
+[out]: /img/mug-cake/coming-out.jpg#M "mmm"
+[plating]: /img/mug-cake/plating-cake.jpg#M "mmm"
+[top]: /img/mug-cake/top-of-cake.jpg#M "mmm"
+[starting]: /img/mug-cake/starting-to-put.jpg#M "mmm"

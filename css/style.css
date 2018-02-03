@@ -10,6 +10,24 @@
   padding-top: 60px;
 }
 
+img{
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+img[src$='#S'] {
+  width: 25%;
+}
+
+img[src$='#M'] {
+  width: 55%;
+}
+
+img[src$='#L'] {
+  width: 85%;
+}
+
 .post-body{
   font-size: 22px;
   line-height: 1.4;
@@ -47,9 +65,13 @@ a:hover {
 
 .icon-container{
   display: block;
-  margin: auto;
-  width: 100px;
+  margin: 0 auto;
+  width: 50%;
+  padding-top: 20px;
   padding-bottom: 75px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  text-align: center;
 }
 
 img.about-head{
@@ -57,6 +79,7 @@ img.about-head{
   height: 100px;
   opacity: 0.4;
   filter: alpha(opacity=40); /* For IE8 and earlier */
+  padding-bottom: 45px;
 }
 
 img.about-head:hover{
@@ -179,10 +202,26 @@ a.archive-title{
   }
 
   .icon-container{
-    display: block;
-    margin: auto;
-    width: 100px;
-    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    font-size: 13px;
+  }
+
+  img[src$='#S'] {
+    width: 45%;
+  }
+
+  img[src$='#M'] {
+    width: 70%;
+  }
+
+  img[src$='#L'] {
+    width: 95%;
+  }
+
+  img.about-head:focus{
+    opacity: 0.7;
+    filter: alpha(opacity=70); /* For IE8 and earlier */
   }
 
 
