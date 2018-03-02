@@ -3,25 +3,38 @@
   <div class="container">
     <!-- comment to database -->
     <input id="comment" type="text" placeholder="comment to db"></input>
-    <button onclick="add_to_db">send comment to db</button>
+    <button onclick="add_to_db()">submit comment to db</button>
+    <br>
 
     <!--email to subscribe list -->
+    <input id="subscribe" type="text" placeholder="email@address.com"></input>
+    <button onclick="subscribe_email()">subscribe</button>
+    <br>
 
     <!--post to email list -->
+    <input id="send-email" type="text" placeholder="email you want to send"></input>
+    <button onclick="send_email()">send email</button>
+    <br>
 
     <!-- login user / pass  create -->
+    <input id="username" type="text" placeholder="user"></input>
+    <input id="password" type="text" placeholder="pass"></input>
+    <button onclick="create_account()">create account</button>
+    <br>
 
     <!-- visit page comment (only login else button "you must login create acct") -->
-    <form action="http://example.com/login" method="POST" data-type="text" id="login-form">
-      <input type="text" name="username" value="user" />
-      <input type="password" name="password" value="mypass" />
-      <label>
-        <input type="checkbox" name="remember" /> Remember me
-      </label>
-      <button type="submit">Login</button>
-    </form>
+    <input id="login-username" type="text" placeholder="user"></input>
+    <input id="login-password" type="text" placeholder="pass"></input>
+    <button onclick="login()">login</button>
+    <br>
 
     <!-- search partial string is comment in db? full entry -->
+    <input id="search" type="text" placeholder="string to search in db comments"></input>
+    <button onclick="search_db()">search</button>
+    <textarea id="search-output" rows="10" cols="100">
+      Output here.
+    </textarea>
+    <br>
 
   </div>
 
@@ -34,25 +47,35 @@
       alert(text);
     }
 
-
-
-    function genericAjaxForm (e) {
-      e.preventDefault();
-      var form = $(this);
-
-      return $.ajax({
-        url: form.attr('action'),
-        type: form.attr('method'),
-        dataType: form.data('type'),
-        data: form.serialize()
-      });
+    function subscribe_email(){
+      var text = $("#subscribe").val();
+      alert(text);
     }
 
-    $('#login-form').on('submit', function (e) {
-      genericAjaxForm.call(this, e).done(function (data) {
-        console.log(data);
-      });
-    });
+    function send_email(){
+      var text = $("#send-email").val();
+      alert(text);
+    }
+
+    function create_account(){
+      var user = $("#username").val();
+      var pass = $("#password").val();
+      alert("username: " + user + " || password: " + pass);
+    }
+
+    function login(){
+      var user = $("#login-username").val();
+      var pass = $("#login-password").val();
+      alert("username: " + user + " || password: " + pass);
+    }
+
+    function search_db(){
+      var search_string = $("#search").val();
+      alert(search_string);
+      $("search-output").val('not implemented on search: ' + search_string);
+    }
+
+
 
   </script>
 
