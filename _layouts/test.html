@@ -1,0 +1,59 @@
+{% include header.html %}
+
+  <div class="container">
+    <!-- comment to database -->
+    <input id="comment" type="text" placeholder="comment to db"></input>
+    <button onclick="add_to_db">send comment to db</button>
+
+    <!--email to subscribe list -->
+
+    <!--post to email list -->
+
+    <!-- login user / pass  create -->
+
+    <!-- visit page comment (only login else button "you must login create acct") -->
+    <form action="http://example.com/login" method="POST" data-type="text" id="login-form">
+      <input type="text" name="username" value="user" />
+      <input type="password" name="password" value="mypass" />
+      <label>
+        <input type="checkbox" name="remember" /> Remember me
+      </label>
+      <button type="submit">Login</button>
+    </form>
+
+    <!-- search partial string is comment in db? full entry -->
+
+  </div>
+
+
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script>
+    function add_to_db(){
+      var text = $("#comment").val();
+      alert(text);
+    }
+
+
+
+    function genericAjaxForm (e) {
+      e.preventDefault();
+      var form = $(this);
+
+      return $.ajax({
+        url: form.attr('action'),
+        type: form.attr('method'),
+        dataType: form.data('type'),
+        data: form.serialize()
+      });
+    }
+
+    $('#login-form').on('submit', function (e) {
+      genericAjaxForm.call(this, e).done(function (data) {
+        console.log(data);
+      });
+    });
+
+  </script>
+
+{% include footer.html %}
