@@ -1,0 +1,8 @@
+<div class="clipping-wrapper">
+  <div class="clipping-body">
+    {{ content | prepend: '"' | append: '"' }}
+  </div>
+  <div class="clipping-author">
+    &mdash; {{ clipping.ref }}, {{ clipping.cred }}
+  </div>
+</div>
