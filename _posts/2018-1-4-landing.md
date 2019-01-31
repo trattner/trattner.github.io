@@ -18,7 +18,7 @@ date: '2018-1-2'
 
 “Andy taught me how to think like an adult: how to craft effective emails, how to navigate applications, and ultimately how to get into the school of my dreams.” --Wendy, MIT
 
-“I thought working with Andy was like exploring a whole new world. It wasn’t like learning in a classroom--instead, you get to ask questions freely. You can explore on your own. It was like a rainforest or a safari. When you go on a safari, you can’t say that you want to see the hippos. They will tell you: ‘no, you have to take the lion path first.’ With Andy, you can do that. You can go straight to the hippos.” --Kai, 5th grader
+“I thought working with Andy was like exploring a whole new world. It wasn’t like learning in a classroom--instead, you get to ask questions freely. You can explore on your own. It was like a rainforest or a safari. But when you go on a safari, you can’t say that you want to see the hippos. They will tell you: ‘no, you have to take the lion path first.’ With Andy, you can do that. You can go straight to the hippos.” --Kai, 5th grader
 
 “Andy is, without exaggeration, the most selfless person I have ever met. He takes so much pride in being able to help others, and I am so lucky to have worked with him as a colleague and a friend.” --Alex, Harvard
 
