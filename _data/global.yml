@@ -1,5 +1,4 @@
 # Site Settings
-title: 'Andy Trattner'
-site-name: 'atratt'
-description: 'ALT Thoughts - The digitized autobiographical mindspace of Andy Trattner.'
-url: 'https://andytrattner.com' # the base hostname & protocol for your site
+site-name: 'ALT Thoughts'
+description: 'Daily observations.'
+url: 'https://andytrattner.com'
