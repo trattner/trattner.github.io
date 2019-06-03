@@ -1,0 +1,11 @@
+<div class="archive-link" id={{ post.date | date: "%m/%d/%y"}}>
+  <a href="{{ post.url | prepend: site.baseurl }}">
+    <span class="archive-title">
+      {{ post.title }}
+    </span>
+      <!--<br>
+    <span class="archive-date">
+      {{ post.date | date: "%m / %d / %y"}}
+    </span>-->
+  </a>
+</div>

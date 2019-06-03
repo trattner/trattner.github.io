@@ -20,3 +20,16 @@
   </div>
 
 {% include footer.html %}
+
+{{ site.time | date: '%y' }}
+
+{% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
+{% for post in site.posts %}
+  {% capture date %}{{post.date | date: '%s' | plus: 0 %}}{% endcapture %}
+  {% if date > now %}
+    <!-- post content here -->
+  {% endif %}
+{% endfor %}
+
+
+page.date | date: "%A %b %-d, %Y"
