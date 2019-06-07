@@ -42,6 +42,10 @@ h1.post-title{
   padding-top: 50px;
   padding-bottom: 30px;
 }
+.foot-border {
+  width: 30%;
+  border-top: 1.5px solid black;
+}
 
 a.more-things {
   font-size: 18px;
