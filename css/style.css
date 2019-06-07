@@ -39,6 +39,8 @@ h1.post-title{
   width: 100%;
   font-family: 'Alice', serif;
   text-align: center;
+  padding-top: 50px;
+  padding-bottom: 30px;
 }
 
 a.more-things {
