@@ -8,4 +8,4 @@ After a disappointment, an unmet expectation, a loss, or a failure, I have many 
 
 Gratitude is almost always absent. It doesn't show up unasked like all the other reactions.
 
-And that's really too bad. Because it's the best possible way to absorb the poinson, grow, re-focus perspective, and move forward.
+And that's really too bad. Because it's the best possible way to absorb the poison, grow, re-focus perspective, and move forward.

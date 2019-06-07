@@ -16,4 +16,4 @@ There's rarely anything to be gained by locking in expectations, thinking and ac
 
 Open-mindedness and optimism require a shrinking of the self, a recognition of the many forms of value just beyond the realm of our mundane experience and base instincts.
 
-If only we could keep reminding ourselves to carry this umbrella. It weighs nothing, it takes up zero space, and it protects everyone&mdsah;by uplifting us above the clouds.
+If only we could keep reminding ourselves to carry this umbrella. It weighs nothing, it takes up zero space, and it protects everyone&mdash;by uplifting us above the clouds.
