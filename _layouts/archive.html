@@ -2,20 +2,15 @@
 
   <div class="container">
 
+    <div class="archive-subscribe-wrap">
+      {% include subscribe-btn.html %}
+    </div>
+
     <div class="archive-list">
       {% for post in site.posts %}
         {% include title-tile.html %}
       {% endfor %}
     </div>
-
-    <div>
-      <a href="/about"><img src="/img/logo/empa-life.svg" class="empanada-svg"/></a>
-      <div class="nice-btn-wrap">
-        <a class="nice-btn" href="https://forms.gle/TngB7wUG2V2YVB6D9" target="_blank">Get New Posts</a>
-      </div>
-    </div>
-
-  </div>
 
   </div>
 

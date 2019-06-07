@@ -29,7 +29,6 @@ https://andytrattner.com/walking-north.html){:target="_blank"}
 - [The Script](https://andytrattner.com/the-script.html){:target="_blank"}
 - [Challenge](https://andytrattner.com/challenge.html){:target="_blank"}
 - [What Can I Learn?](https://andytrattner.com/what-can-i-learn.html){:target="_blank"}
-
 - [I Care](https://andytrattner.com/i-care.html){:target="_blank"}
 - [College Advice](https://andytrattner.com/college-advice.html){:target="_blank"}
 - [Backpack](https://andytrattner.com/backpack.html){:target="_blank"}

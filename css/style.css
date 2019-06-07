@@ -35,6 +35,12 @@ h1.post-title{
   padding-bottom: 15px;
 }
 
+.foot {
+  width: 100%;
+  font-family: 'Alice', serif;
+  text-align: center;
+}
+
 a.more-things {
   font-size: 18px;
   display: block;
@@ -129,8 +135,8 @@ a.more-things {
     background: #fff;
     text-decoration: none;
     display: block;
-    border: 2px solid #a0a0a0;
-    color: #a0a0a0;
+    border: 2px solid #5b5b5b;;
+    color: #5b5b5b;;
     padding: 0.5rem 1rem;
     border-radius: 0.85rem;
     transition: all 0.5s ease-in;
@@ -139,10 +145,15 @@ a.more-things {
 
   .nice-btn:hover {
     border-radius: 2rem;
-    color: #0d239b;
-    border-color: #0d239b;
+    color: #4020d6;
+    border-color: #4020d6;
 
   }
+
+.archive-subscribe-wrap {
+  width: 40%;
+  float: right;
+}
 
 a {
   color: #4020d6;
