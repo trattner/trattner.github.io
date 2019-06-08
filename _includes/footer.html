@@ -1,6 +1,6 @@
     <div class="foot">
       <span class="foot-border"/><br>
-      <a href="/about">About</a> | <a href="/things">Archive</a> | <a href="/contact">Contact</a> | <a href="https://forms.gle/TngB7wUG2V2YVB6D9" target="_blank">Join</a>
+      <a href="/about">About</a> | <a href={{ page.date | date: "%m/%d/%y" | prepend: "/things#" }}>archive</a> | <a href="/contact">Contact</a> | <a href="https://forms.gle/TngB7wUG2V2YVB6D9" target="_blank">Join</a>
     </div>
 
     <script src="/js/email.js"></script>
