@@ -1,8 +1,23 @@
     <div class="foot">
       <span class="foot-border"/><br>
-      <a href="/about">About</a> | <a href={{ page.date | date: "%m/%d/%y" | prepend: "/things#" }}>archive</a> | <a href="/contact">Contact</a> | <a href="https://forms.gle/TngB7wUG2V2YVB6D9" target="_blank">Join</a>
+      <a href="#" onclick="goToRandom();">Random</a> |
+      <a href={{ page.date | date: "%m/%d/%y" | prepend: "/things#" }}>Archive</a> |
+      <a href="https://forms.gle/TngB7wUG2V2YVB6D9" target="_blank">Join</a> |
+      <a href="/about">About</a> | <a href="/contact">Contact</a>
     </div>
 
     <script src="/js/email.js"></script>
     </body>
+
+<script>
+   var posts = [];
+   {% for post in site.posts %}
+      posts.push("{{ post.url }}");
+   {% endfor %}
+
+   function goToRandom() {
+         window.location = posts[Math.floor(Math.random() * posts.length)];
+      }
+</script>
+
 </html>
