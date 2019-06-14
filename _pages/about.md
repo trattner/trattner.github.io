@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: about
 title: ALT Thoughts
 permalink: /about/
 date: 2019-6-6
