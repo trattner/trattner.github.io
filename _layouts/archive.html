@@ -2,11 +2,11 @@
 
   <div class="container">
 
-    <div class="archive-subscribe-wrap">
-      {% include subscribe-btn.html %}
-    </div>
-
     <div class="archive-list">
+      <div class="archive-subscribe-wrap">
+        {% include subscribe-btn.html %}
+      </div>
+
       {% for post in site.posts %}
         {% include title-tile.html %}
       {% endfor %}

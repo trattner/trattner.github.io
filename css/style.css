@@ -157,8 +157,8 @@ a.more-things {
   }
 
 .archive-subscribe-wrap {
-  width: 40%;
-  float: right;
+  width: 100%;
+  font-size: 24px;
 }
 
 a {
@@ -213,7 +213,6 @@ img.empanada-svg {
   margin-left: 22.5%;
   width: 35%;
   padding-top: 250px;
-  padding-bottom: 250px;
   text-align: left;
 }
 
