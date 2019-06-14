@@ -41,10 +41,20 @@ h1.post-title{
   text-align: center;
   padding-top: 50px;
   padding-bottom: 30px;
+  font-size: 18px;
 }
+
 .foot-border {
   width: 30%;
   border-top: 0.5px solid black;
+}
+
+.foot a {
+  color: #5b5b5b;
+}
+
+.foot a:hover{
+  color: #4020d6;
 }
 
 a.more-things {
@@ -327,9 +337,12 @@ and (max-device-width : 768px) { /* bigger phone */
   .post-date{
     font-size: 14px;
     margin: auto;
-    text-align: right;
     color: #5b5b5b;
     padding-top: 24px;
+  }
+
+  .foot {
+    font-size: 14px;
   }
 
   h1.post-title{
