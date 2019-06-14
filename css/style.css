@@ -52,11 +52,13 @@ h1.post-title{
 
 .foot a {
   color: #5b5b5b;
+  text-decoration: none;
 }
 
 .foot a:hover{
   transition: all 0.5s ease-in;
   color: #4020d6;
+  text-decoration: none;
 }
 
 a.more-things {
