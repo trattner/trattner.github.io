@@ -324,11 +324,11 @@ and (max-device-width : 768px) { /* bigger phone */
   }
 
   a.more-things {
-    font-size: 16px;
+    font-size: 14px;
     display: block;
     float: right;
     text-align: right;
-    padding-top: 14px;
+    padding-top: 60px;
     padding-bottom: 45px;
   }
 
