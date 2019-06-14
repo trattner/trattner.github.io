@@ -42,11 +42,12 @@ h1.post-title{
   padding-top: 50px;
   padding-bottom: 30px;
   font-size: 18px;
+  transition: all 0.2s ease-out;
 }
 
 .foot-border {
   width: 30%;
-  border-top: 0.5px solid black;
+  border-top: 0.5px solid #5b5b5b;
 }
 
 .foot a {
@@ -54,6 +55,7 @@ h1.post-title{
 }
 
 .foot a:hover{
+  transition: all 0.5s ease-in;
   color: #4020d6;
 }
 
