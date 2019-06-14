@@ -56,7 +56,6 @@ h1.post-title{
 }
 
 .foot a:hover{
-  transition: all 0.5s ease-in;
   color: #4020d6;
   text-decoration: none;
 }
@@ -311,8 +310,9 @@ and (max-device-width : 768px) { /* bigger phone */
   }
 
   .archive-title{
-    font-size: 18px;
+    font-size: 23px;
   }
+  
   .archive-date{
     font-size: 11px;
     padding-bottom: 8px;
