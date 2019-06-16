@@ -342,7 +342,7 @@ and (max-device-width : 768px) { /* bigger phone */
     font-size: 14px;
     margin: auto;
     color: #5b5b5b;
-    padding-top: 24px;
+    padding-top: 75px;
   }
 
   .foot {
