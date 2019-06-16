@@ -31,15 +31,15 @@ h1.post-title{
   margin: auto;
   text-align: center;
   color: #5b5b5b;
-  padding-top: 30px;
-  padding-bottom: 15px;
+  padding-top: 100px;
+  padding-bottom: 0px;
 }
 
 .foot {
   width: 100%;
   font-family: 'Alice', serif;
   text-align: center;
-  padding-top: 50px;
+  padding-top: 0px;
   padding-bottom: 30px;
   font-size: 17px;
   transition: all 0.2s ease-out;
@@ -312,7 +312,7 @@ and (max-device-width : 768px) { /* bigger phone */
   .archive-title{
     font-size: 23px;
   }
-  
+
   .archive-date{
     font-size: 11px;
     padding-bottom: 8px;

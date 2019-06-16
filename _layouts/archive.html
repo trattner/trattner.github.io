@@ -16,8 +16,19 @@
 
   <div class="foot">
     <span class="foot-border"/><br><br>
-    <a href="/about">About</a> | <a href="/contact">Contact</a>
+    <a href="/about">About</a> | <a href="/contact">Contact</a> | <a href="#" onclick="goToRandom();">Random</a>
   </div>
+
+<script>
+ var posts = [];
+ {% for post in site.posts %}
+    posts.push("{{ post.url }}");
+ {% endfor %}
+
+ function goToRandom() {
+       window.location = posts[Math.floor(Math.random() * posts.length)];
+    }
+</script>
 
   </body>
 </html>
