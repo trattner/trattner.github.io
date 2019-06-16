@@ -306,7 +306,7 @@ and (max-device-width : 768px) { /* bigger phone */
   .archive-list{
     margin: auto;
     width: 75%;
-    padding-top: 220px;
+    padding-top: 120px;
   }
 
   .archive-title{
