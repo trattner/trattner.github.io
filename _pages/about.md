@@ -5,7 +5,7 @@ permalink: /about/
 date: 2019-6-6
 ---
 
-This blog is 100% inspired by [Seth Godin](https://seths.blog/2015/02/say-something/){:target="_blank"}. So far, my thoughts are a bit more convoluted than his. I'm hoping the daily practice of writing will help me straighten things out! Perhaps this journey is of interest; I'd love for you to [join me](https://forms.gle/TngB7wUG2V2YVB6D9){:target="_blank"}.
+This blog is 100% inspired by [Seth Godin](https://seths.blog/2019/06/writing-not-plastics-not-wall-street/){:target="_blank"}. So far, my thoughts are a bit more convoluted than his. I'm hoping the daily practice of writing will help me straighten things out! Perhaps this journey is of interest; I'd love for you to [join me](https://forms.gle/TngB7wUG2V2YVB6D9){:target="_blank"}.
 
 I'm fascinated with writing and the technology of language as an art form. I'm interested in individual and collective human experience, potential, and intelligence. What constitutes success, meaning, purpose? What's beautiful? How?
 
