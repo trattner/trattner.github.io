@@ -17,3 +17,5 @@ I'm still not sure about the answer here, but I'm leaning towards disagreement.
 It may be exponentially hard to prevent a widening distribution of interactions and outcomes as volume increases, but it may be an even higher order of "worth-it" to figure out how.
 
 only testing here
+
+again.
