@@ -12,6 +12,6 @@ Relationships grow like weeds, springing up out of every twist and crack in the 
 
 We can continue down that path, encountering what we will. There is no end to the irregularity, the opportunity.
 
-But we can also double back, choosing to lavish precious attention and water on particular plants.
+But we can also double back, choosing to lavish precious attention and water on particular plants we've passed.
 
-The blooming of a flower is a slow transformation. Yet it may continue to flourish perenially, spreading abundant life for years to come.
+The blooming of a flower is a slow transformation, yet once cultivated, it may continue to flourish perenially. 
