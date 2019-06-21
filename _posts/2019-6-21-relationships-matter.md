@@ -14,4 +14,4 @@ We can continue down that path, encountering what we will. There is no end to th
 
 But we can also double back, choosing to lavish precious attention and water on particular plants we've passed.
 
-The blooming of a flower is a slow transformation, yet once cultivated, it may continue to flourish perenially. 
+The blooming of a flower is a slow transformation, yet once cultivated, it may continue to flourish perennially. 
