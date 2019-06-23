@@ -20,7 +20,7 @@ You're a worker, obviously, when you go to work for a boss (yes, Uber is a boss)
 
 *Experts* are information aggregators. They are artists, craftspeople, folks who have internal ownership over their expertise. They are a specialist in an applied and/or theoretical niche. They observe and inform and consult when participating in projects. In the pure Kiyosaki framework, experts are probably some combination of rich/poor, owner/laborer, decision-maker/worker.
 
-You're an expert when you recommend you're favorite local hamburger joint to friends. You're an expert when you tell the decision-making brain that carbohydrates and animal-based protein are the best thing for you to eat right now. I'm an expert when I suggest a blog topic or a better sentence structure, when I answer other folks' questions about my blog or blogging in general (that doesn't happen yet :).
+You're an expert when you recommend your favorite local hamburger joint to friends. You're an expert when you tell the decision-making brain that carbohydrates and animal-based protein are the best thing for you to eat right now. I'm an expert when I suggest a blog topic or a better sentence structure, when I answer other folks' questions about my blog or blogging in general (that doesn't happen yet :).
 
 So why is this breakdown useful?
 
