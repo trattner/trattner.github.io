@@ -14,6 +14,6 @@ Sometimes, we find ourselves in a burning building. We might have left the stove
 
 And that is the moment we learn to climb, or leap gracefully, and survive.
 
-We heal, learn, grow.
+We can't change gravity, but we can heal, learn, grow.
 
 We'll remember to check the smoke detectors next time.
