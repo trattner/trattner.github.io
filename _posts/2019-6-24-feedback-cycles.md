@@ -24,4 +24,4 @@ Tara Mac Aulay was given a structured role, but she saw it as unstructured. She 
 
 The difference between the failed nonprofit founder and the successful stopwatch burger-flipper lies in the feedback cycles they've established. Each day, each week, are we putting in work to make something better? How do we know?
 
-In most cases, the nonprofit founder didn't confront the impossible. They merely confronted difficult obstacles. And, unfortunately, they didn't keep looking to find a good stopwatch.
+In most cases, the failed nonprofit founder didn't confront impossible obstacles. They merely confronted many difficult ones. And, unfortunately, they didn't keep looking to find a good stopwatch.
