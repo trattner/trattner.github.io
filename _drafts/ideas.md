@@ -1,5 +1,9 @@
 post ideas:
 
+- Vienna so grateful to have convesation, shared death tidbit memories. one second video gives purpose to get out and sieze the day, gratitude, fun, doing things with life worth remembering each day.
+
+- Vienna process good life morality thoughts on living in the woods -- if someone paid you would you do it? blob of humanity vs indian reservation isolation, more people / man-made good or bad? entropy always increasing so more efforts tech CEO maybe bad externalities overall with progress. My argument is human blob has bigger impacts, definitely inefficiencies and can reduce entropy by working in this domain vs small scale of self in woods. Not sure answer here. What brings personal utility? Work for job maybe don't enjoy, losing touch with humanity? Fairness of accessibility to jobs / influence / power. big system gives smaller chances for you to be impactful?  
+
 - how did warren buffet push himself?
 
 - what globalization means? mechanical turk vs scale. trajectory of products, slow/fast design curve impact with legacy and lots of maintance / existing customers changes harder. working within company: see how to use contractors, tools of modern world and tech, assimilate this, also working gives idea of what slow fast means, what design curve and product development entails, org, etc.
