@@ -27,3 +27,16 @@ post ideas:
 - problems don't go away. solve them minimally to move forward and focus on most important ones. don't stress or spend any time on rest. only focus.
 
 -
+
+
+On the planet Eieio,
+
+money coordinates people around ideas. also people but not as duh.
+
+
+
+interesting people interest you. They entertain. Consistently. Taking you on a ride, a journey, a learing adventure. Timeframes. watching tree grow vs bamboo shoots...
+
+
+
+Interesting people interest you. That is, you are drawn to them&mdash;their quirks, curiosity, joy, sordid.
