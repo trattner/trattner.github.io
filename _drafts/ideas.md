@@ -1,5 +1,12 @@
 post ideas:
 
+* Nikhil question: is he good business-wise?
+    * founded a company, oh never heard of it
+    * ran DRF first round, what were major successful investments he was involved with?
+    * a bit abrupt, I didn’t have good answers. but intuition of “so incomplete biased picture” is wrong. best way to operate, try to gather as much info as possible, dive in quick to details. make judgments as needed to prioritize speed and decisions. Update as needed if wrong,
+
+
+
 - appreciation comes from understanding what something could be. kill because don't understand the other person could become our best friend. Over-eat and not exercise because don't see selves as being future humans. Don't try to build wealth because not awake to the possibility of it. Often the most successful are the most grateful, humble, kind. Becauase they recognized oppotunities where others didn't see them. They appreciated. It's a skill, appreciation is recognition. Love is the act of moving towards that appreciated state. When you love someone you act on your appreciation. You do things for them. You sacrifice, but it's also in the long-term interests of yourself. giving selflessly is one of the best investments we can make. Karma, etc. many recognize this. So when you devote more action, more resources to your daily coffee than your sibling living in a far-off palce, you are loving it more. lead with appreciation. live with love.
 
 - PM is about knowing how to answer any question about a project on the spot all the time. timeline, deliverables, next steps, impact.
