@@ -22,6 +22,6 @@ The chocolate company certainly seems less reprehensible to modern hyper-liberal
 
 When Tyler Cowen talks about [the moral case for economic growth](https://smile.amazon.com/Stubborn-Attachments-Prosperous-Responsible-Individuals/dp/1732265135/){:target="_blank"}, he outlines the need not only to produce growth now, but moreover that this growth should lead sustainably to more future growth.
 
-I've paid quite a bit of money to Askinosie Chocolate, but very little to Google. Yet Google has fed me more than almost any other organization, in terms of knowledge, enternainment, navigation, communication, and more.
+I've paid quite a bit of money to Askinosie Chocolate, but very little to Google. Yet Google has fed me more than almost any other organization, in terms of knowledge, entertainment, navigation, communication, and more.
 
 I hope there's a middle ground between reverse scale and monopoly. But I wonder if it's possible for companies with massive impact potential to be less exploitative.
