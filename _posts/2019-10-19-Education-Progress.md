@@ -22,7 +22,7 @@ These ideas don't really solve anything immediately, so the next step / question
 
 First, though, we can mull over and discuss these statements. They can evolve, and in whatever form they could act as a filter for collaborative partners and projects. Here goes...
 
-## Principle 1 - Modern opportunity and exclusivity.
+<a name="principles">## Principle 1 - Modern opportunity and exclusivity.</a>
 
 At present, there is a dramatic lack of opportunity / access to information / learning&mdash;at least for some&mdash;regarding real / adult life, and human systems. For example, at a young age, I was not exposed to taxes, companies, economics, philosophy, risk / reward profiles, math, high-quality humanities, thoughtfulness, rigor, a "why" mentality, norms of excellence, diverse cultures. Tactically and holistically / globally, I was not effectively taught / exposed to truths, nor questioning of said "truths" (Hegelian dialectics). I think I would have been ready for all these things significantly earlier in my life / intellectual development. Not to say this is true for everyone, just _some_.
 
