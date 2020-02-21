@@ -9,7 +9,7 @@ I currently work at [Scale AI](https://scale.com/){:target="_blank"} in San Fran
 
 ![](/img/headshot.png#S)
 
-Previously, I
+Previously:
 - taught [chess in St. Louis](https://saintlouischessclub.org/){:target="_blank"},
 - [ran the U.S. Presidential Scholars Program for the White House](https://blog.ed.gov/2017/07/the-ability-to-inspire/){:target="_blank"} under Presidents Obama and Trump,
 - interned at an [early-stage Boston-based VC firm](https://www.pillar.vc/),
