@@ -2,20 +2,21 @@
 layout: about
 title: About Andy
 permalink: /about/
-date: 2020-1-5
+date: 2020-2-24
 ---
 
-I currently work at [Scale AI](https://scale.com/){:target="_blank"} in San Francisco on the Customer Operations team. We're hiring! Outside of work, I'm trying my best to follow through on some [2020 reflections](https://andytrattner.com/decade-reflections-2020.html).
+I'm an Engineer with the heart of an Educator and the spirit of an Entrepreneur. My mission is to accelerate human intelligence by empowering people and unlocking our collective potential. I'm grateful for my background and strong relationships which enable me to pursue this end uniquely well.
 
 ![](/img/headshot.png#S)
 
-Previously:
+I currently work at [ReadMe](https://readme.com/){:target="_blank"} as a Customer Success Manager. Previous highlights include:
+- multiple roles in customer operations at [Scale AI](https://scale.com/){:target="_blank"},
 - taught [chess in St. Louis](https://saintlouischessclub.org/){:target="_blank"},
 - [ran the U.S. Presidential Scholars Program for the White House](https://blog.ed.gov/2017/07/the-ability-to-inspire/){:target="_blank"} under Presidents Obama and Trump,
 - interned at an [early-stage Boston-based VC firm](https://www.pillar.vc/),
 - cofounded the mental health nonprofit [Lean On Me](https://lean0n.me/){:target="_blank"},
 - conducted structural analysis in the 3D-printing group at Northrop Grumman for the [James Webb Space Telescope](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope){:target="_blank"},
-- made [remote-controlled bubbles on the Space Station](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160001341.pdf){:target="_blank"},
+- made [remote-controlled bubbles on the International Space Station](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160001341.pdf){:target="_blank"},
 - obtained a [B.S. in Mathematics with Computer Science](/img/mit-diploma.png){:target="_blank"} from MIT in three years.
 
 This site started as a blog inspired by [Seth Godin](https://seths.blog/2019/06/writing-not-plastics-not-wall-street/){:target="_blank"}. I've been calling it "ALT Thoughts" (my initials).
