@@ -26,6 +26,15 @@ h1.post-title{
   padding-bottom: 9px;
 }
 
+h2{
+  padding-top: 35px;
+}
+
+ul{
+  margin-top:0;
+  margin-block-start:-1em;
+}
+
 .post-date{
   font-size: 18px;
   margin: auto;
@@ -254,7 +263,7 @@ img.empanada-svg {
 img{
   width: 100%;
   display: block;
-  margin: 0 auto;
+  margin: 1em auto;
   padding-top: 7px;
   padding-bottom: 7px;
 }
