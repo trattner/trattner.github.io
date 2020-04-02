@@ -156,3 +156,7 @@ True believers can't help but share theirs.
 So I'd like to append the following imperative to [my tombstone inscription](https://andytrattner.com/February-2020.html#a-poetic-afterthought-written-first){:target="_blank"}:
 
 "[Read](https://seths.blog/){:target="_blank"} and [listen to](https://play.acast.com/s/akimbo){:target="_blank"} and [watch](https://www.youtube.com/results?search_query=seth+godin){:target="_blank"} and [read some more](https://www.sethgodin.com/#books-courses-and-more){:target="_blank"} [Seth Godin](https://www.sethgodin.com/#about){:target="_blank"}."
+
+## What About Bob?
+
+Yes.
