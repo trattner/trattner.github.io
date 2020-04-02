@@ -16,7 +16,7 @@ With my homework done, and a bit of reading too, I could focus many more hours o
 
 I became impatient when I wasn't learning. When the teacher wasn't challenging the class.
 
-As school became disappointing, room opened up for sports, extracurriculars, hanging out with friends. Opportunities arose to do interesting work, and my resume expanded. I was accepted exclusive, prestigious colleges.
+As school became disappointing, room opened up for sports, extracurriculars, hanging out with friends. Opportunities arose to do interesting work, and my resume expanded. I was admitted to exclusive, prestigious colleges.
 
 The typical trajectory for this student profile is to continue hyper-productive excellence, over time translating academic skills into professional ones. One can imagine a few archetypal journeys: the founder, the doctor / lawyer / trader / consultant, the professor. Maybe there's a mid-life crisis at some point. A meaningful shift in life orientation. Some social impact, or political activism and influence.
 

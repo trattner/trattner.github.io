@@ -2,7 +2,7 @@
 layout: about
 title: About Andy
 permalink: /about/
-date: 2020-2-29
+date: 2020-4-1
 ---
 
 I'm an [Engineer](https://overcast.fm/+L0YXHOgJQ){:target="_blank"}, with the [heart](https://seths.blog/2017/05/emotional-labor/){:target="_blank"} of an [Educator](https://seths.blog/2016/11/education-is-the-answer/){:target="_blank"} and the [spirit](https://seths.blog/2014/08/turning-passion-on-its-head/){:target="_blank"} of an [Entrepreneur](https://seths.blog/2018/04/entrepreneurship-is-not-a-job/){:target="_blank"}.
@@ -27,6 +27,8 @@ Previous career highlights:
 - made [bubbles on the Space Station](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160001341.pdf){:target="_blank"}
 - obtained a [B.S. in Math with CS (18c)](/img/mit-diploma.png){:target="_blank"} from MIT in six semesters.
 
+Here are [some links to what the Internet has said about me](https://andytrattner.com/February-2020.html#on-social-media-and-google){:target="_blank"}.
+
 This blog is inspired by [Seth Godin](https://seths.blog/2019/06/writing-not-plastics-not-wall-street/){:target="_blank"}. Click "random" below to get a sample of previous work, or visit the "archive".
 
 Some favorites:
@@ -38,8 +40,8 @@ https://andytrattner.com/walking-north.html){:target="_blank"}
 - [Backpack](https://andytrattner.com/backpack.html){:target="_blank"}
 - [Baseline Normal](https://andytrattner.com/normal.html){:target="_blank"}
 
-Questions? Feedback? When in doubt, [reach out](https://forms.gle/kwANcR9NaYDAHDD16){:target="_blank"}! I'm also touting a new tagline: I love phone tag. Ring me!
+Questions? Feedback? When in doubt, [reach out](https://forms.gle/kwANcR9NaYDAHDD16){:target="_blank"}! And don't forget my tagline&mdash;I love phone tag. Ring me anytime!
 
-If you'd like to get new posts delivered by email, [join me in this journey](https://forms.gle/TngB7wUG2V2YVB6D9){:target="_blank"}. I promise to never share or sell your data, and you can opt-out at any time.
+If you'd like to get new posts delivered by email, [join me in this journey](https://forms.gle/TngB7wUG2V2YVB6D9){:target="_blank"}. I promise to never share or sell your data, and you can opt-out at any time. I'm currently posting once per month.
 
 See Github for the [source code](https://github.com/trattner/trattner.github.io/){:target="_blank"}.
