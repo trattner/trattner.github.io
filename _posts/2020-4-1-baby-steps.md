@@ -31,7 +31,7 @@ I previously [wrote about this process in more detail](https://andytrattner.com/
 - I was not more talented than peers, just different (and probably lazier).
 - There is little benefit and large potential harm in cultivating a personal vacuum to live in.
 - Commitment is difficult and following through is worthwhile.
-- The hard work of shipping is what ultimately leads to growth.
+- The hard work of [shipping](https://alexarohn.com/shipping-for-the-uninitiated/){:target="_blank"} is what ultimately leads to growth.
 
 I'm so, so fortunate I was able to move quickly and arrive where I'm at now. Sure my studio in SF has no laundry, half the size, and triple the rent...
 
