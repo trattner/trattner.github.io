@@ -34,7 +34,6 @@ $( document ).ready(function(){
       }
     });
 
-
     // set click animation
     document.getElementById("star-img-wrapper").addEventListener("mouseover", function(){
       document.getElementById("star-img").src='/img/star/star-plus.jpg';
