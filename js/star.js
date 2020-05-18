@@ -1,6 +1,11 @@
+---
+---
 $( document ).ready(function(){
   const base_api_url = 'https://star-counter.herokuapp.com';
-  const this_url = window.location.href;
+  var this_url = window.location.href;
+  if (this_url == 'https://andytrattner.com/'){
+    this_url = {{ post.url | prepend: site.baseurl }};
+  }
   // check if page has star
   if ($("#star-container").length>0){
 
