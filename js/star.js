@@ -5,7 +5,7 @@ $( document ).ready(function(){
   var this_url = window.location.href;
   if (this_url == 'https://andytrattner.com/'){
     {% assign post = site.posts.first %}
-    this_url = {{ post.url | prepend: site.baseurl }};
+    this_url = 'https://andytrattner.com' + '{{ post.url }}';
   }
   // check if page has star
   if ($("#star-container").length>0){
