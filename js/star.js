@@ -37,15 +37,15 @@ $( document ).ready(function(){
 
     // set click animation
     document.getElementById("star-img-wrapper").addEventListener("mouseover", function(){
-      document.getElementById("star-img").src='https://andytrattner.com/star-plus.jpg';
+      document.getElementById("star-img").src='/img/star/star-plus.jpg';
       document.getElementById("star-count").style.color = "black";
     });
     document.getElementById("star-img-wrapper").addEventListener("mouseout", function(){
-      document.getElementById("star-img").src='https://andytrattner.com/star.jpg';
+      document.getElementById("star-img").src='/img/star/star.jpg';
       document.getElementById("star-count").style.color = '#737373';
     });
     document.getElementById("star-img-wrapper").addEventListener("mousedown", function(){
-      document.getElementById("star-img").src='https://andytrattner.com/star-plus-inverse.jpg';
+      document.getElementById("star-img").src='/img/star/star-plus-inverse.jpg';
       document.getElementById("star-count").style.color = '#FFCE4E';
     });
 
@@ -75,19 +75,19 @@ $( document ).ready(function(){
     */
 
     document.getElementById("star-img-wrapper").addEventListener("mouseup", function(){
-      document.getElementById("star-img").src='https://andytrattner.com/starburst-1.jpg';
+      document.getElementById("star-img").src='/img/star/starburst-1.jpg';
       document.getElementById("star-count").style.color = '#FFB902';
-      setTimeout(function(){document.getElementById("star-img").src='https://andytrattner.com/starburst-2.jpg'; }, 45);
-      setTimeout(function(){document.getElementById("star-img").src='https://andytrattner.com/starburst-3.jpg'; }, 90);
+      setTimeout(function(){document.getElementById("star-img").src='/img/star/starburst-2.jpg'; }, 45);
+      setTimeout(function(){document.getElementById("star-img").src='/img/star/starburst-3.jpg'; }, 90);
       setTimeout(function(){
         let isMobile = window.matchMedia("only screen and (max-width: 760px)").matches;
         const userAgent = navigator.userAgent.toLowerCase();
         const isTablet = /(ipad|tablet|(android(?!.*mobile))|(windows(?!.*phone)(.*touch))|kindle|playbook|silk|(puffin(?!.*(IP|AP|WP))))/.test(userAgent);
         if (isMobile || isTablet){
-          document.getElementById("star-img").src='https://andytrattner.com/star.jpg';
+          document.getElementById("star-img").src='/img/star/star.jpg';
           document.getElementById("star-count").style.color = "#737373";
         } else {
-          document.getElementById("star-img").src='https://andytrattner.com/star-plus.jpg';
+          document.getElementById("star-img").src='/img/star/star-plus.jpg';
           document.getElementById("star-count").style.color = "black";
         }
       }, 135);
