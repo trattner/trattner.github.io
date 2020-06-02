@@ -41,7 +41,7 @@ Also incredibly proud to have appeared on Seth's podcast no less than 4 separate
 - [question on Moore’s law digitizing media, education, art, plumbing](https://overcast.fm/+L0YX7w7g8/20:53)
 - [question on writing style and voice](https://overcast.fm/+L0YUU0rRE/16:48).
 
-This last one was particularly awesome. It was his most useful advice thus far in terms of interpersonal marketing tactics that can be applied to myriad daily situations. I highly recommend listening to that episode. His main thrust is under 15 minutes long. And his answer to my question is sublime.
+This last podcast was particularly awesome as a whole. It was his most useful advice thus far in terms of interpersonal marketing tactics that can be applied to myriad daily situations. I highly recommend listening to that episode. His main thrust is under 15 minutes long. And his answer to my question is also sublime.
 
 Seth rigorously cultivates his unique contribution to the [unending conversation](http://kairos.technorhetoric.net/2.1/features/brent/burke.htm) that is our world. His stance on culture and education informs his speech and [projects](https://seths.blog/2014/07/thirty-years-of-projects/). He seems to have the moral motivation that Bret Victor describes beautifully in the ["Inventing on Principle"](https://vimeo.com/36579366) talk.
 
