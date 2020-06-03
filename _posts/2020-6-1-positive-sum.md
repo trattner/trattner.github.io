@@ -19,7 +19,7 @@ So I mostly ignore it. I focus on the positives. Stuff that perpetuates my insul
 - [SpaceX's triumphant ISS docking](https://www.nytimes.com/2020/05/31/science/spacex-astronauts-arrival.html),
 - [the S&P500 breaking 3,000](https://www.marketwatch.com/story/sp-500-index-tops-3000-for-first-time-heres-what-it-means-and-how-the-stock-market-got-here-2019-07-10).
 
-And I reach out. It's incredibly fulfilling when inspired by someone, to take action and articulate the results back to them. No matter how small.
+And I reach out. It's incredibly fulfilling when inspired by someone, to take action and articulate the results back to them. No matter how small. For example, from [last month's post on giving what we can](https://andytrattner.com/giving-what-we-can):
 
 ![](/img/80k-email.png#L)
 
