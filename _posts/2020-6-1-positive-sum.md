@@ -10,7 +10,7 @@ Interacting with lots of folks in lots of places reinforced how fortunate I am t
 
 I’m glad I made the decision last month [to donate a portion of my income on an ongoing basis](https://andytrattner.com/giving-what-we-can). This is the least I can do to share back some of my disproportionate social equity.
 
-Yet the inadequacy of such a gesture is reinforced every day by what I see in the streets upon exiting my apartment building. By the deluge of online content that Kareem Abdul-Jabbar did an incredibly powerful job of capturing in his recent op-ed ["Don't Understand The Protests?"](https://www.latimes.com/opinion/story/2020-05-30/dont-understand-the-protests-what-youre-seeing-is-people-pushed-to-the-edge_)
+Yet the inadequacy of such a gesture is reinforced every day by what I see in the streets upon exiting my apartment building. By the deluge of online content that Kareem Abdul-Jabbar did an incredibly powerful job of capturing in his recent op-ed ["Don't Understand The Protests?"](https://www.latimes.com/opinion/story/2020-05-30/dont-understand-the-protests-what-youre-seeing-is-people-pushed-to-the-edge)
 
 I'm never sure how to respond to such things. Other than crying, which isn't really a choice for me.
 
