@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 'Learning Chess The Easy Way'
-date: 2020-6-13
+date: 2020-6-14
 ---
 
 Unless you’re a competitive chess player, you probably hold a number of misconceptions about the game.
@@ -16,7 +16,7 @@ My dad taught me chess when I was five or six years old. He did it in the same b
 
 Next, we tried playing a game. This may have taken place many months later. I was probably too frustrated learning a million arbitrary piece movements to play a weird, annoyingly complicated board game with my father in the first sitting.
 
-And of course,  playing the game felt more like a chore than a reward. I would be absolutely clobbered on the board and frequently told I was explicitly wrong or implicitly stupid for missing obvious things. “Ah, did you consider this move son? Or what happens if you try this instead?” Many a dad just can’t help himself in pointing these things out a bit more frequently than others are comfortable with.
+And of course,  playing the game felt more like a chore than a reward. I would be absolutely clobbered on the board and frequently told I was explicitly wrong or implicitly stupid for missing obvious things. “Ah, did you consider this move son? Or what happens if you try this instead?” Many a dad just can’t help himself in pointing out corrections a bit more frequently than others are comfortable with.
 
 On rare occasions, I would be momentarily fooled by my dad’s goofy playacting. If he let me win or inconspicuously guided me to capture a piece, I felt accomplished. I’d entertain brief hopes that there might be an easy road to better results. Maybe my feeble little brain _could_ withstand the cold crushing complexity, the labyrinthine logic of chess. Such hopes would die as soon as I was reminded of our status roles as father and son, chess authority versus chess learner.
 
