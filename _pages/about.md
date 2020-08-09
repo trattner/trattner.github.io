@@ -9,7 +9,7 @@ I currently live in SF and do customer success at [ReadMe](https://andytrattner.
 
 ![](/img/headshot.png#S)
 
-My blogging is inspired by [Seth Godin](https://seths.blog/2019/06/writing-not-plastics-not-wall-street/){:target="_blank"}. Click "random" below to get a sample, visit the "archive", or jump to [the latest]({{site.posts.first.url | prepend: site.baseurl }}).
+My blogging is inspired by [Seth Godin](https://seths.blog/2019/06/writing-not-plastics-not-wall-street/){:target="_blank"}. Click "random" (at the bottom of this page) to get a sample, visit the "archive", or jump to [the latest]({{site.posts.first.url | prepend: site.baseurl }}).
 
 Some past favorites:
 - [Brushing Teeth](https://andytrattner.com/brushing-teeth.html){:target="_blank"}
