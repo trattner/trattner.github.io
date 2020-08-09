@@ -17,11 +17,17 @@ Some past favorites:
 - [Baseline Normal](https://andytrattner.com/normal.html){:target="_blank"}
 - [College Advice](https://andytrattner.com/college-advice.html){:target="_blank"}
 - [Backpack](https://andytrattner.com/backpack.html){:target="_blank"}
+- [Giving What We Can](https://andytrattner.com/giving-what-we-can.html)
+- [Learning Chess The Easy Way](https://andytrattner.com/chess-the-easy-way.html)
 - [Walking North](
 https://andytrattner.com/walking-north.html){:target="_blank"}
-- [Learning Chess The Easy Way](https://andytrattner.com/chess-the-easy-way.html)
+- [Positive Sum](https://andytrattner.com/positive-sum.html)
 
-Words my friends use to describe me: genuine, friendly, introspective, self-improving, spontaneous, quirky. I have a diverse professional background including [Lean On Me](https://lean0n.me/), [Scale AI](https://andytrattner.com/Scale-AI.html), [the White House](https://blog.ed.gov/2017/07/the-ability-to-inspire/), and [the Space Station](https://ntrs.nasa.gov/citations/20160001341). Previously I've also posted [some links to what the Internet has said about me](https://andytrattner.com/February-2020.html#on-social-media-and-google){:target="_blank"}.
+Words my friends use to describe me: genuine, friendly, introspective, self-improving, spontaneous, quirky. I enjoy [cooking](https://github.com/trattner/atratt/blob/master/_posts/2019-1-31-food.md) and I always do the dishes. Once upon a time, [I made a fancy battlebot](https://github.com/trattner/atratt/blob/master/_posts/2019-1-31-battlebot.md). I'm often tempted to play poker [against my best interests](https://github.com/trattner/atratt/blob/master/_posts/2019-1-25-poker-sim.md).
+
+I have a diverse professional background including [Lean On Me](https://lean0n.me/), [Scale AI](https://andytrattner.com/Scale-AI.html), [the White House](https://blog.ed.gov/2017/07/the-ability-to-inspire/), and [the Space Station](https://ntrs.nasa.gov/citations/20160001341). I earned [a degree in math + CS](/img/mit-diploma.png) from MIT in 3 years (Course 18c).
+
+I've previously posted [some links to what the Internet has said about me](https://andytrattner.com/February-2020.html#on-social-media-and-google){:target="_blank"}.
 
 Questions? Feedback? Want to reconnect after years of radio silence? When in doubt, [reach out](https://forms.gle/kwANcR9NaYDAHDD16){:target="_blank"}! If you have my number, call anytime&mdash;I love phone tag (and friendship is timeless).
 
