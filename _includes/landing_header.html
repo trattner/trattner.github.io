@@ -1,0 +1,56 @@
+<!doctype html>
+<head>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <title>ALT Thoughts</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta name="description" content="Andy Trattner's blog on life.">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130728675-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-130728675-2');
+    </script>
+
+
+    <!-- Open Graph Protocol (Social Media) -->
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:title" content={% if page.title %}{{ page.title }}{% else %}{{ site.data.global.site-name }}{% endif %}/>
+    <meta property="og:description" content={{ site.data.global.description }}/>
+    <meta property="og:url" content={{ page.url }} />
+    <meta property="og:image" content="https://andytrattner.com/img/headshot_salmon.png" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/img/headshot.png">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,400,400italic,700,700italic|Oswald:300,400,700">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Alice" rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="https://andytrattner.com/css/style.css">
+    <!--[if lte IE 9]>
+    <script src="masonry.pkgd.min.js"></script>
+    <![endif]-->
+
+    <!-- Star Counter -->
+    <!--<script type='text/plain' src="//wurfl.io/wurfl.js" data-cookiescript='accepted'></script>-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="/js/star.js"></script>
+
+    <!-- all links target blank by default unless target specified -->
+    <base target="_blank">
+
+</head>
+<body>
