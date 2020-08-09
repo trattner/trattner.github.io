@@ -29,4 +29,4 @@ I’m still figuring out what my life’s high point will look like, but I have 
 
 You train to get skills. You plan to have a strategy. You market to create a story and niche positioning within the universe. High quality progress in these things is critical to having an impactful career and a meaningful life. They transcend any particular job, stick with you, and happen to also be prerequisites to any substantial or meaningful endeavor.
 
-Here's a litmus test for my younger self: do you agree with this framework, and understand it fully? If not, you really should "just go get a decent job."
+Here's a litmus test for my younger self: do you agree with this framework, and understand it fully? If not, you really should stop dreaming and "just go get a decent job."
