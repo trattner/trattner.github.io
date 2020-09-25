@@ -23,7 +23,7 @@ The title of this blog post references [a lovely documentary](https://www.thesoc
 
 The documentary paints online interaction with the brush of doom. Does email deserve it? I don't think broad strokes are helpful here, since the broadest strokes would probably say email is a useful tool and leave it at that. To really understand the moral priorities, we need to go deeper into the specifics.
 
-As usual, I tend to agree with Seth Godin. He has a lot of [thoughts on email](https://seths.blog/?s=email), a medium he helped pioneer comercially. He wrote [an open letter to gmail](https://seths.blog/2018/01/an-open-note-to-google/) and created the [98 voices project](https://98voices.com/). He generously shares best-practices like this [gem from Danah Boyd](http://www.zephoria.org/thoughts/archives/2008/12/11/email_sabbatica.html) that says, "I'm on vacation so any email you send me will be deleted. If it's important, please re-send after this date."
+As usual, I tend to agree with Seth Godin. He has a lot of [thoughts on email](https://seths.blog/?s=email), a medium he helped pioneer commercially. He wrote [an open letter to gmail](https://seths.blog/2018/01/an-open-note-to-google/) and created the [98 voices project](https://98voices.com/). He generously shares best-practices like this [gem from Danah Boyd](http://www.zephoria.org/thoughts/archives/2008/12/11/email_sabbatica.html) that says, "I'm on vacation so any email you send me will be deleted. If it's important, please re-send after this date."
 
 I like Seth's life operating system. Contribute as we can to the public and political discourse, advocate for more healthy incentive-aligned design and legislation, but personally focus most on living a good life. Building good habits and doing good work.
 
@@ -35,7 +35,7 @@ This is an activity that generates value. The output is something I'm really pro
 
 > _“Btw, I have listened through the Mars and Venus book, life-changing, I am so glad I have read it, and believe me it is the best book for couples to read”_
 
-> _“Finite and Inifinite games is my favorite book. Life changing. Genuinely happy you found it.”_
+> _“Finite and Infinite games is my favorite book. Life changing. Genuinely happy you found it.”_
 
 The quality of this content is so much higher than social media for me. I love owning my website, having it serve my sole purposes. I love how the only engagements are silent and unknown to me, or extremely positive and thoughtful like these messages. There is so much more signal, so much less noise.
 
@@ -57,7 +57,7 @@ For me, the answer to the social dilemma is simply good habits and some reasonab
 
 Removing sufficiently many distractions, the only thing left is the work of living true to oneself. Of acting freely.
 
-Right now, I have three main personal goals / activities: writing, fitness, and dating. I don't always do particularly well, but at least it's a compass I can anchor on. Consistent effort invested in these buckets move my life in a positive direction.
+Right now, I have three main personal goals / activities: writing, fitness, and dating. I don't always do particularly well, but at least it's a compass I can anchor on. Consistent effort invested in these buckets moves my life in a positive direction.
 
 ![](/img/words-written.png)
 
