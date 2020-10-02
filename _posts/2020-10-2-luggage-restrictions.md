@@ -28,4 +28,4 @@ It would have been so easy to say, "We're going to waive this $40 fee for you Mr
 
 Why didn't the airline say this, through either the gate agent or the supervisor I interacted with, even after I explained my position in clear terms? [According to Seth Godin](https://seths.blog/2008/09/fixing-the-one/), it's the same reason "Joe Biden is long winded...laziness or lack of will (or focus)".
 
-American Airlines simply isn't [thinking strategically](https://seths.blog/2019/01/your-customer-service-strategy/) about [customer care](https://seths.blog/2012/02/howd-it-work/). As a result, they may [lose business](https://seths.blog/2006/04/the_customer_is/) over time. Perhaps starting with mine.
+American Airlines simply isn't [thinking strategically](https://seths.blog/2019/01/your-customer-service-strategy/) about [customer care](https://seths.blog/2012/02/howd-it-work/). As a result, they may [lose business](https://seths.blog/2006/04/the_customer_is/) over time. Starting with mine.
