@@ -28,4 +28,4 @@ Sounds like some good common sense. I wonder if this has any historical preceden
 
 To sum up, I'm all about [the long tail](https://www.wired.com/2004/10/tail/) and want everybody to consume content that's best for them. It would be great if lots of dialogue occurred in many formats. I love the Vice President's fly as much as the next person. But I'm also highly conscious of the importance of what's presented to the public, and how it's presented.
 
-There's been growing concern over the past few years that free speech is under attack. I'm much more worried that thoughtful speech faces enough resistence to proliferation that it doesn't even occur in the first place anymore.
+There's been growing concern over the past few years that free speech is under attack. I'm much more worried that thoughtful speech faces enough resistance to proliferation that it doesn't even occur in the first place anymore.
