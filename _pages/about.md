@@ -11,7 +11,7 @@ My professional background includes [ReadMe](https://andytrattner.com/March-2020
 
 ![](/img/headshot.png#S)
 
-This blog is called "ALT Thoughts" from my initials. To get a sample, click random at the bottom of this page, visit the archive, jump to whatever's [latest]({{site.posts.first.url | prepend: site.baseurl }}), or try some past favorites:
+This blog is called "ALT Thoughts" from my initials. To get a sample, click random at the bottom of this page, search the archive, jump to whatever's [latest]({{site.posts.first.url | prepend: site.baseurl }}), or try some past favorites:
 - [Brushing Teeth](https://andytrattner.com/brushing-teeth.html)
 - [Entrepreneurship](https://andytrattner.com/entrepreneurship.html)
 - [Baseline Normal](https://andytrattner.com/normal.html)
