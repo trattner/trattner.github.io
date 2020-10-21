@@ -1,22 +1,54 @@
 {% include header.html %}
 
-  <div class="container">
+<!-- temporary cloudflare bypass-->
+<style>
+input[type=text] {
+  border: 2px solid #ccc;
+  border-radius: 15px;
+  font-size: 21px;
+  padding: 12px 12px 12px 12px;
+  transition: width 0.4s ease-in-out;
+  font-family: 'Alice', serif;
+  width: 130px;
+  color: #5b5b5b;
+}
+input[type=text]:focus {
+  width: 100%;
+  outline: none;
+  border: 2px solid #4020d6;
+  color: black;
+}
+#results-container{
+  padding-top: 68px;
+  transition: all 0.1s ease-out;
+}
+#search-container ul {
+  padding-inline-start: 0px;
+}
+</style>
 
+
+
+  <div class="container">
     <div class="archive-list">
+      <div id="search-container">
+        <input type="text" id="search-input" placeholder="search...">
+        <ul id="results-container">
+          {% for post in site.posts %}
+            {% include title-tile.html %}
+          {% endfor %}
+        </ul>
+      </div>
       <div class="archive-subscribe-wrap">
         {% include subscribe-btn.html %}
       </div>
-
-      {% for post in site.posts %}
-        {% include title-tile.html %}
-      {% endfor %}
     </div>
 
   </div>
 
   <div class="foot">
     <span class="foot-border"/><br><br>
-    <a href="/about" target="_self">About</a> | <a href="/contact">Contact</a> | <a href="#" onclick="goToRandom();" target="_self">Random</a>
+    <a href="/about" target="_self">About</a> | <a href="/contact">Contact</a> | <a href="#" onclick="goToRandom();" target="_self">Random</a> | <a href="/things" target="_self">Refresh</a>
   </div>
 
 
@@ -29,6 +61,52 @@
  function goToRandom() {
        window.location = posts[Math.floor(Math.random() * posts.length)];
     }
+</script>
+
+<!-- Script pointing to search-script.js -->
+<script src="/js/search-script.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+
+/* TODO
+const INITIAL_KIDS = JSON.stringify(document.getElementById("results-container").innerHTML);
+console.log(INITIAL_KIDS.toString().length);
+// Function to add in all the archive results
+function populate() {
+  console.log(document.getElementById("search-input").value.length);
+  var len = document.getElementById("results-container").children.length;
+  if( len == 0 ) {
+    alert('results empty');
+    var paste_elem = document.createElement("UL");
+    var new_child = document.createElement("UL");
+    var old_child = document.getElementById("results-container");
+    paste_elem.innerHTML = INITIAL_KIDS;
+
+    // for (child of paste_elem.childNodes) {
+    //   new_child.appendChild(child.innerHTML);
+    // }
+    // document.getElementById("search-container").replaceChild(new_child, old_child);
+
+    document.getElementById("results-container").innerHTML = INITIAL_KIDS;
+    console.log(document.getElementById("results-container").childNodes.toString());
+    console.log(document.getElementById("results-container").childNodes[0].toString());
+
+  }
+}
+// Add event listener to search result area
+const el = document.getElementById("search-input");
+el.addEventListener("input", populate, false);
+*/
+
+// instantiate search
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json',
+  searchResultTemplate: '<div class="archive-link"><a href="{url}"><span class="archive-title">{title}</span><br><span class="archive-date">{date}</span></a></div>',
+  noResultsText: "Nothing found for that search :( <br><br><br>"
+});
 </script>
 
   </body>

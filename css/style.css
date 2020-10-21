@@ -78,6 +78,33 @@ a.more-things {
   padding-bottom: 60px;
 }
 
+input[type=text] {
+  border: 2px solid #ccc;
+  border-radius: 15px;
+  font-size: 21px;
+  padding: 12px 12px 12px 12px;
+  transition: width 0.4s ease-in-out;
+  font-family: 'Alice', serif;
+  width: 130px;
+  color: #5b5b5b;
+}
+
+input[type=text]:focus {
+  width: 100%;
+  outline: none;
+  border: 2px solid #4020d6;
+  color: black;
+}
+
+#results-container{
+  padding-top: 68px;
+  transition: all 0.1s ease-out;
+}
+
+#search-container ul {
+  padding-inline-start: 0px;
+}
+
 .endcap {
   font-size: 18px;
   display: block;
@@ -164,8 +191,8 @@ a.more-things {
     background: #fff;
     text-decoration: none;
     display: block;
-    border: 2px solid #5b5b5b;;
-    color: #5b5b5b;;
+    border: 2px solid #5b5b5b;
+    color: #5b5b5b;
     padding: 0.5rem 1rem;
     border-radius: 0.85rem;
     transition: all 0.5s ease-in;

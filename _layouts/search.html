@@ -1,0 +1,74 @@
+{% include header.html %}
+
+<style>
+
+input[type=text] {
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 21px;
+  padding: 12px 12px 12px 12px;
+  transition: width 0.4s ease-in-out;
+  font-family: 'Alice', serif;
+}
+
+input[type=text]:focus {
+  width: 100%;
+}
+
+#results-container{
+  padding-top: 65px;
+}
+
+#search-container ul {
+  padding-inline-start: 0px;
+}
+
+</style>
+
+  <div class="container">
+    <div class="article">
+      <article>
+        <h1 class="post-title">
+          {{ page.title }}
+        </h1>
+        <!-- Html Elements for Search -->
+        <div id="search-container">
+          <input type="text" id="search-input" placeholder="search...">
+          <ul id="results-container">
+          </ul>
+        </div>
+      </article>
+    </div>
+  </div>
+  <div class="foot">
+    <span class="foot-border"/><br><br>
+    <a href="/about" target="_self">About</a> | <a href="/things" target="_self">Archive</a> | <a href="/contact">Contact</a> | <a href="#" onclick="goToRandom();" target="_self">Random</a>
+  </div>
+
+  <script>
+   var posts = [];
+   {% for post in site.posts %}
+      posts.push("{{ post.url }}");
+   {% endfor %}
+
+   function goToRandom() {
+         window.location = posts[Math.floor(Math.random() * posts.length)];
+      }
+  </script>
+
+  <!-- Script pointing to search-script.js -->
+  <script src="/js/search-script.js" type="text/javascript"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    searchResultTemplate: '<div class="archive-link"><a href="{url}"><span class="archive-title">{title}</span><br><span class="archive-date">{date}</span></a></div>',
+    noResultsText: "Nothing found for that search :("
+  });
+  </script>
+
+  </body>
+</html>

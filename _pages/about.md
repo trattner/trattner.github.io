@@ -22,9 +22,12 @@ This blog is called "ALT Thoughts" from my initials. To get a sample, click rand
 
 To get new posts by email, [join me in this journey](https://docs.google.com/forms/d/e/1FAIpQLSfH7b6KQZvwVUkZ-pO_wKsEGPT08IfQUHVVVTNRK-WMajTjSQ/viewform?usp=sf_link). I promise to never share or sell your data, and you can opt-out at any time.
 
-I've consolidated personal muses into this [ongoing list of major influences](https://andytrattner.com/influences/) in case you're looking for recommended reading.
+In case you're looking for recommended reading, I recently consolidated this [ongoing list of my major influences](https://andytrattner.com/influences/).
 
-When in doubt, [reach out](/contact)! Snail mail and ringing phones are comforting in my old age.
+Snail mail and ringing phones are comforting in my old age. When in doubt, [reach out](/contact)!
+
+
+
 
 <!--
 See Github for the [source code](https://github.com/trattner/trattner.github.io/).
