@@ -1,0 +1,38 @@
+---
+layout: article
+title: Influences
+permalink: /influences/
+date: 2020-10-21
+---
+
+_Ordered by personal impact + scope + chronology._
+
+**Seth Godin**: _[Graceful](https://smile.amazon.com/Graceful-Seth-Godin-ebook/dp/B0047ZFFEA/)_, _[Stop Stealing Dreams](https://seths.blog/2014/09/the-shameful-fraud-of-sorting-for-youth-meritocracy/)_, _[Linchpin](https://smile.amazon.com/Linchpin-Are-Indispensable-Seth-Godin/dp/1591844096/)_, _[The Dip](https://smile.amazon.com/Dip-Little-Book-Teaches-Stick/dp/1591841666/)_, _[Permission Marketing](https://smile.amazon.com/Permission-Marketing-Turning-Strangers-Customers/dp/0684856360/)_, [Akimbo podcast](https://www.akimbo.link/#all-the-ways-to-listen), [Seth's daily blog](https://seths.blog/). Seth is [the reason I write](https://seths.blog/2019/06/writing-not-plastics-not-wall-street/). He covers many topics: culture, creativity, art, generosity, humanity, systems, business, marketing. He's a gateway to some of the other things listed here.
+
+[**The 80,000 Hours Podcast**](https://80000hours.org/podcast/). I was hooked after listening to the [Case Against Education](https://80000hours.org/podcast/episodes/bryan-caplan-case-for-and-against-education/) and [Why We Have To Lie To Ourselves](https://80000hours.org/podcast/episodes/robin-hanson-on-lying-to-ourselves/) episodes. These conversations helped me think more rigorously and [inspired my commitment](https://andytrattner.com/giving-what-we-can.html) to [Giving What We Can](https://www.givingwhatwecan.org/about-us/members/). Also a gateway to other items on this list.
+
+[***Finite and Infinite Games***](https://smile.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713/) by James P. Carse. I now view nearly all human affairs through this elegant and comprehensive moral lens. Profoundly defines poetry, genius, art.
+
+[***The War of Art***](https://smile.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/). Pressfield inspires me to fight each day, striving for creativity. [*Turning Pro*](https://smile.amazon.com/Turning-Pro-Inner-Power-Create/dp/1936891034/) is the more practical, concrete accompanyment I now prefer to the original manifesto. Significantly more relevant than Sun Tzu to surviving, competing, and thriving in today's world.
+
+[***The Defining Decade***](https://smile.amazon.com/Defining-Decade-Your-Twenties-Matter/dp/0446561754/). Meg Jay changed my mind that it is indeed worthwhile to invest in traditional "normal people" life milestone things like marriage.
+
+[***Men Are from Mars, Women Are from Venus***](https://smile.amazon.com/gp/product/0060574216/). This book taught me how to appreciate and interact with masculine and feminine archetypes, including my own! Important how-to manual accompanying the above realization.
+
+[***The Snowball: Warren Buffett and the Business of Life***](https://smile.amazon.com/Snowball-Warren-Buffett-Business-Life/dp/0553384619/). A fantastic, inspiring story that humanized compounding for me. Notable mentions are [Ben Franklin](https://smile.amazon.com/Benjamin-Franklin-American-Walter-Isaacson/dp/074325807X/) and [The Wright Brothers](https://smile.amazon.com/Wright-Brothers-David-McCullough/dp/1476728755/)' biographies, but those didn't have as much of an impact on my daily thinking and decision-making.
+
+[***Stubborn Attachments***](https://smile.amazon.com/Stubborn-Attachments-Prosperous-Responsible-Individuals/dp/1732265135/). Tyler Cowen's views on economic growth compelled me to crystallize my own: that markets and capitalism make a lot of sense (in theory).
+
+[***REWORK***](https://basecamp.com/books/rework). I wholeheartedly agree with Jason Fried and David Heinemeier Hansson's manifesto on work culture. [_It Doesn't Have to Be Crazy at Work_](https://basecamp.com/books/calm) is even better than the original as a north star and practical playbook for building a calm company with generous policies.
+
+[***Sapiens***](https://www.ynharari.com/book/sapiens-2/). At the end of my final college semester, I realized language is my favorite technology. Probably this book, more than any other, led to that epiphany. It describes how culture and technology are levers for evolution that humanity has layered on top of biology.
+
+[***Introduction to the Theory of Computation***](https://smile.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X/). Sipser showed me the beauty of computer science and introduced me to algorithms. This is the only book on the list from my college degree, from my favorite technical class and a wonderful teacher.
+
+[***Zurich 1953***](https://smile.amazon.com/Zurich-International-Chess-Tournament-Dover/dp/0486238008/). Of the dozen and a half chess books I've read, this one yielded by far the most tangible, propulsive, and enjoyable [results](http://www.uschess.org/msa/XtblMain.php?201304143242-14538125). Notable mentions are [_Capablanca's Best Chess Endings_](https://smile.amazon.com/Capablancas-Best-Chess-Endings-Complete/dp/0486242498/), [_Life and Games of Mikhail Tal_](https://smile.amazon.com/Life-Games-Mikhail-Tal/dp/1857442024/), and [Fischer's _60 Memorable Games_](https://smile.amazon.com/My-Memorable-Games-Bobby-Fischer/dp/190638830X/).
+
+[***How to Win Friends and Influence People***](https://smile.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/). I'm glad I read this before college, breaking out of my fantasy fiction comfort zone. I don't remember much of the content, but I do recall it laid the foundation for me to enjoy other great nonfiction and self-help classics like Cialdini's [_Influence_](https://www.influenceatwork.com/principles-of-persuasion/) and Covey's [_7 Habits_](https://smile.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1982137274/).
+
+[***Harry Potter***](https://smile.amazon.com/Harry-Potter-Sorcerers-Stone-Rowling-ebook/dp/B0192CTMYG/). This series taught me how to read, along with [_Eragon_](https://smile.amazon.com/Eragon-Inheritance-Book-Cycle-ebook/dp/B000FBJCK8/).
+
+I'm ommitting much great content I also really enjoyed, but the primary impact was entertainment value as opposed to any particular milestone or idea that shaped my life. For example: Asimov's [_Foundation Trilogy_](https://smile.amazon.com/Foundation-Empire-Second/dp/0307593967/), Orson Scott Card's [_Ender Quartet_](https://smile.amazon.com/Ender-Quartet-Boxed-Set-Xenocide/dp/0765362430/), N. K. Jemison's [_Broken Earth_](https://smile.amazon.com/Fifth-Season-Broken-Earth-Book-ebook/dp/B00H25FCSQ/), Le Guin's [_Left Hand of Darkness_](https://smile.amazon.com/Left-Hand-Darkness-Ursula-1987-03-15/dp/B01FKS8J2M/) and [_The Lathe of Heaven_](https://smile.amazon.com/Lathe-Heaven-Ursula-K-Guin/dp/1416556966/), [_Why We Sleep_](https://smile.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324/), [_Rich Dad Poor Dad_](https://smile.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194/), [Paul Graham's Essays](http://www.paulgraham.com/articles.html), [_Man's Search for Meaning_](https://smile.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/0807014273/), [_Love's Executioner_](https://smile.amazon.com/Loves-Executioner-Other-Tales-Psychotherapy/dp/0465020119/), [Marcus Aurelius _Meditations_](https://smile.amazon.com/Meditations-Marcus-Aurelius/dp/1545565678/), [_Quiet_](https://smile.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153/), [_Teaching A Stone To Talk_](https://smile.amazon.com/Teaching-Stone-Talk-Expeditions-Encounters/dp/0060915412/), etc. Most of all, experiences with other people have shaped my trajectory (but these beloved family, friends, and colleagues aren't available for scalable sharing on this list)!
