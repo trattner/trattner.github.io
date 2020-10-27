@@ -11,7 +11,7 @@ _Ordered by personal impact + scope + chronology._
 
 [**The 80,000 Hours Podcast**](https://80000hours.org/podcast/). I was hooked after listening to the [Case Against Education](https://80000hours.org/podcast/episodes/bryan-caplan-case-for-and-against-education/) and [Why We Have To Lie To Ourselves](https://80000hours.org/podcast/episodes/robin-hanson-on-lying-to-ourselves/) episodes. These conversations helped me think more rigorously and [inspired my commitment](https://andytrattner.com/giving-what-we-can.html) to [Giving What We Can](https://www.givingwhatwecan.org/about-us/members/). Also a gateway to other items on this list.
 
-[***Finite and Infinite Games***](https://smile.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713/) by James P. Carse. I now view nearly all human affairs through this elegant and comprehensive moral lens. Profoundly defines poetry, genius, art.
+<a id="carse"/>[***Finite and Infinite Games***](https://smile.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713/) by James P. Carse. I now view nearly all human affairs through this elegant and comprehensive moral lens. Profoundly defines poetry, genius, art.
 
 [***The War of Art***](https://smile.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/). Pressfield inspires me to fight each day, striving for creativity. [*Turning Pro*](https://smile.amazon.com/Turning-Pro-Inner-Power-Create/dp/1936891034/) is the more practical, concrete accompanyment I now prefer to the original manifesto. Significantly more relevant than Sun Tzu to surviving, competing, and thriving in today's world.
 
