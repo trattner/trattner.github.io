@@ -14,9 +14,9 @@ As writing is the essence of mulling over, of adding paint to the picture, so it
 
 Poetry is often revised and meditated upon, but it may also appear unfiltered. A captured crystalline figure from a mind with something to communicate. By this product, we may touch or vicariously approach [genius](/influences#carse).
 
-Writing evolved from the spoken word, but is it [an optional companion](https://www.ling.upenn.edu/courses/Fall_2019/ling001/reading_writing.html)? To me, Wikipedia suggests otherwise. Writing enables iterative, high-quality idea snowballs like no other. 
+Writing evolved from the spoken word, but is it [an optional companion](https://www.ling.upenn.edu/courses/Fall_2019/ling001/reading_writing.html)? To me, Wikipedia suggests otherwise. Writing enables iterative, high-quality idea snowballs like no other.
 
-Perhaps we should think of the spoken word as evolving toward the written. It is the purest expression of language, permanently spoken.
+Perhaps we should think of the spoken word as evolving toward the written. It is the purest expression of language, more permanently spoken.
 
 
 
