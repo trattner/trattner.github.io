@@ -13,9 +13,9 @@ _Ordered by personal impact + scope + chronology._
 
 <a id="carse"/>[***Finite and Infinite Games***](https://smile.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713/) by James P. Carse. I now view nearly all human affairs through this elegant and comprehensive moral lens. Profoundly defines poetry, genius, art.
 
-[***The War of Art***](https://smile.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/). Pressfield inspires me to fight each day, striving for creativity. [*Turning Pro*](https://smile.amazon.com/Turning-Pro-Inner-Power-Create/dp/1936891034/) is the more practical, concrete accompaniment I now prefer to the original manifesto. Significantly more relevant than Sun Tzu to surviving, competing, and thriving in today's world.
+[***The War of Art***](https://smile.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/). Pressfield inspires me to fight each day, striving for creativity. [*Turning Pro*](https://smile.amazon.com/Turning-Pro-Inner-Power-Create/dp/1936891034/) is the practical, concrete accompaniment I now prefer to the original manifesto. Pressfield is more relevant than Sun Tzu to surviving, competing, and thriving in today's world.
 
-[***The Defining Decade***](https://smile.amazon.com/Defining-Decade-Your-Twenties-Matter/dp/0446561754/). Meg Jay changed my mind that it is indeed worthwhile to invest in traditional "normal people" life milestone things like marriage.
+[***The Defining Decade***](https://smile.amazon.com/Defining-Decade-Your-Twenties-Matter/dp/0446561754/). Meg Jay changed my mind that it is indeed worthwhile to invest in traditional "normal people" life milestones like marriage.
 
 [***Men Are from Mars, Women Are from Venus***](https://smile.amazon.com/gp/product/0060574216/). This book taught me how to appreciate and interact with masculine and feminine archetypes, including my own! Important how-to manual accompanying the above realization.
 
@@ -23,7 +23,7 @@ _Ordered by personal impact + scope + chronology._
 
 [***Stubborn Attachments***](https://smile.amazon.com/Stubborn-Attachments-Prosperous-Responsible-Individuals/dp/1732265135/). Tyler Cowen's views on economic growth compelled me to crystallize my own: that markets and capitalism make a lot of sense (in theory).
 
-[***REWORK***](https://basecamp.com/books/rework). I wholeheartedly agree with Jason Fried and David Heinemeier Hansson's manifesto on work culture. [_It Doesn't Have to Be Crazy at Work_](https://basecamp.com/books/calm) is even better than the original as a north star and practical playbook for building a calm company with generous policies.
+[***REWORK***](https://basecamp.com/books/rework). I wholeheartedly agree with Jason Fried and David Heinemeier Hansson's manifesto on work culture. [_It Doesn't Have to Be Crazy at Work_](https://basecamp.com/books/calm) is even better than the original as a north star playbook for building a calm company with generous policies.
 
 [***Sapiens***](https://www.ynharari.com/book/sapiens-2/). At the end of my final college semester, I realized language is my favorite technology. Probably this book, more than any other, led to that epiphany. It describes how culture and technology are levers for evolution that humanity has layered on top of biology.
 
