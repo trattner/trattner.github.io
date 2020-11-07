@@ -18,7 +18,7 @@ I continued my workout, pondering what had happened. Instead of listening with e
 
 In fact, I welcome the interruption. I appreciate this friend's trust and respect for my opinion to be helpful to their situation!
 
-I also know better than to close down the conversation with an unsatisfying answer that absolves me of responsibility. I could have tried understanding the question more deeply. I wrote a post last year describing [exactly how to handle this process](/life-decision-advice), and I've done peer support work in the past with [Libby](https://www.libbymahaffy.com/bio) and [Lean On Me](https://lean0n.me/), etc. The Hurricane Video we produced is worth sharing here:
+I also know better than to close down the conversation with an unsatisfying answer that absolves me of responsibility. I could have tried understanding the question more deeply. I wrote a post last year describing [exactly how to handle this process](/life-decision-advice), and I've done peer support work in the past with [Libby](https://www.libbymahaffy.com/bio) and [Lean On Me](https://lean0n.me/), etc. The [Hurricane Video](https://youtu.be/66qQRMfW1Xg) we produced is worth sharing here:
 
 <div style="width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe style="width:100%;height:100%; position: absolute;" src="https://www.youtube.com/embed/66qQRMfW1Xg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
