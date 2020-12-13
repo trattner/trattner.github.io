@@ -287,6 +287,13 @@ img.empanada-svg {
   font-size: 15px;
 }
 
+.recent-list{
+  margin-left: 22.5%;
+  width: 55%;
+  padding-top: 100px;
+  text-align: center;
+}
+
 img{
   width: 100%;
   display: block;
@@ -339,21 +346,32 @@ img[src$='#L'] {
 @media only screen
 and (min-device-width : 768px)
 and (max-device-width : 1024px)  { /* iPad */
-
+  .recent-list{
+    padding-top: 75px;
+  }
 }
 
 @media only screen
 and (min-device-width : 320px)
 and (max-device-width : 568px) { /* small iPhone */
-
+  .recent-list{
+    padding-top: 35px;
+  }
 }
 
 @media only screen
 and (min-device-width : 568px)
 and (max-device-width : 768px) { /* bigger phone */
+  .recent-list{
+    padding-top: 55px;
+  }
 }
 
 @media only screen and (max-device-width: 480px) {
+
+  .recent-list{
+    padding-top: 45px;
+  }
 
   #mc_embed_signup{
     width: 90%;
