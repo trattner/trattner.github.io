@@ -181,10 +181,10 @@ input[type=text]:focus {
     flex-direction: column;
     justify-content: center;
     margin: auto;
-    width:100%;
+    width:40%;
     height:100%;
     text-align:center;
-    padding-bottom: 60px;
+    padding-bottom: 20px;
   }
 
   .nice-btn {
@@ -209,6 +209,7 @@ input[type=text]:focus {
 .archive-subscribe-wrap {
   width: 100%;
   font-size: 24px;
+  padding-top: 35px;
 }
 
 a {
@@ -352,6 +353,9 @@ img[src$='#L'] {
 @media only screen
 and (min-device-width : 768px)
 and (max-device-width : 1024px)  { /* iPad */
+  .nice-btn-wrap {
+    width:100%;
+  }
 }
 
 @media only screen
@@ -359,6 +363,9 @@ and (min-device-width : 320px)
 and (max-device-width : 568px) { /* small iPhone */
   .recent-list{
     padding-top: 35px;
+  }
+  .nice-btn-wrap {
+    width:100%;
   }
 }
 
@@ -368,9 +375,16 @@ and (max-device-width : 768px) { /* bigger phone */
   .recent-list{
     padding-top: 55px;
   }
+  .nice-btn-wrap {
+    width:100%;
+  }
 }
 
 @media only screen and (max-device-width: 480px) {
+
+  .nice-btn-wrap {
+    width:100%;
+  }
 
   .recent-list{
     padding-top: 45px;
