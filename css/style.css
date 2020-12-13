@@ -352,9 +352,6 @@ img[src$='#L'] {
 @media only screen
 and (min-device-width : 768px)
 and (max-device-width : 1024px)  { /* iPad */
-  .recent-list{
-    padding-top: 75px;
-  }
 }
 
 @media only screen
