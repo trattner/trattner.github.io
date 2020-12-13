@@ -288,10 +288,15 @@ img.empanada-svg {
 }
 
 .recent-list{
-  margin-left: 22.5%;
   width: 55%;
   padding-top: 100px;
   text-align: center;
+}
+
+#recent-container{
+  padding-top: 68px;
+  transition: all 0.1s ease-out;
+  padding-inline-start: 0px;
 }
 
 img{
