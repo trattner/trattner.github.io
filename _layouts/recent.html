@@ -2,7 +2,7 @@
 
   <div class="container">
     <div class="recent-list">
-      <ul id="results-container">
+      <ul id="recent-container">
         {% for post in site.posts limit:5 %}
           {% include title-tile.html %}
         {% endfor %}
