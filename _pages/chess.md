@@ -33,9 +33,10 @@ I'm not accepting new students, except under extremely special circumstances. Yo
 - [Lichess.org](https://lichess.org/): the best chess website for playing online. Also has great learning resources.
 - [Chesstempo.com](https://chesstempo.com/): the best tactics puzzle trainer. Great page on [motifs](https://chesstempo.com/tactical-motifs).
 - [The Opera Game](https://www.youtube.com/watch?v=VYp0hLD3a74): excellent YouTube video by John Bartholomew walking through Morphy's classic. One of the first things I will show kids who have successfully completed the minigame circuit.
-- [Zurich 1953](https://smile.amazon.com/Zurich-International-Chess-Tournament-Dover/dp/0486238008/): the best collection of grandmaster games for intermediate players (1200-1800) to play through, absorb, and make the leap to expert.
+- [_Zurich 1953_](https://smile.amazon.com/Zurich-International-Chess-Tournament-Dover/dp/0486238008/): the best collection of grandmaster games for intermediate players (1200-1800) to play through, absorb, and make the leap to expert. After I spent a few months immersed in this book, I had a [breakout performance](http://www.uschess.org/msa/XtblMain.php?201304143242-14538125).
 - [Acorn Chess](https://acornchess.com/): software platform for learning chess with minigames and endgames.
 - [ChessKid.com](https://www.chesskid.com/): minor-friendly website for playing and learning online.
+- [_Capablanca's Best Chess Endings_](https://smile.amazon.com/Capablancas-Best-Chess-Endings-Complete/dp/0486242498/), [_Life and Games of Mikhail Tal_](https://smile.amazon.com/Life-Games-Mikhail-Tal/dp/1857442024/), and [Fischer's _60 Memorable Games_](https://smile.amazon.com/My-Memorable-Games-Bobby-Fischer/dp/190638830X/).
 
 ## Misc
 

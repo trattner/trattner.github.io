@@ -9,53 +9,49 @@ An ongoing sense-making project to share what's been most impactful and resonant
 
 ## People
 
-Family, friends, teachers, colleagues, neighbors, chance acquaintances, even adversaries...many individuals and organizations have contributed innumerable important data points to the fabric of my experience.
+Family, friends, teachers, colleagues, neighbors, chance acquaintances, even adversaries...so many individuals and organizations have contributed to the fabric of my experience.
 
-More than anything else, I am a product of having interacted with many human beings. Thank you all for your part in my life.
+More than anything else, I am a product of having interacted with numerous human beings. Thank you all for your part in my life.
 
 ## Texts
 
 I am religious about four instrumental touchstones.
 
-1. ["Consider Writing"](https://seths.blog/2019/06/writing-not-plastics-not-wall-street/), _[Graceful](/img/pdf/graceful-Seth-Godin-ebook.pdf)_, and _[The Practice](https://seths.blog/trust-yourself/)_. In these and many more, Seth Godin maps out a consistent, comprehensive, and generous framework for the journey of making one's ruckus in the modern world. <!--(Also: _Stop Stealing Dreams_, _Linchpin_, _The Dip_, _Permission Marketing_, _Akimbo Podcast_, _Seth's Blog_.)-->
+1. ["Consider Writing"](https://seths.blog/2019/06/writing-not-plastics-not-wall-street/), _[Graceful](/img/pdf/graceful-Seth-Godin-ebook.pdf)_, and _[The Practice](https://seths.blog/trust-yourself/)_. Seth Godin maps the journey of making one's ruckus in the modern world. <!--(Also: _Stop Stealing Dreams_, _Linchpin_, _The Dip_, _Permission Marketing_, _Akimbo Podcast_, _Seth's Blog_.)-->
 
 2. _[Turning Pro](https://stevenpressfield.com/books/)_. Steven Pressfield delivers a well-aimed kick in the pants to get us moving along.
 
-3. <a id="carse"/>_[Finite and Infinite Games](https://smile.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713/)_. James P. Carse gifts us some startlingly elegant moral bifocals.
+3. <a id="carse"/>_[Finite and Infinite Games](https://smile.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713/)_. James P. Carse forges some startlingly elegant moral bifocals.
 
 4. _[Dan Harris on Becoming 10% Happier](https://tim.blog/2020/11/19/dan-harris/)_ and _[The Feeling Buddha](https://us.macmillan.com/books/9780312295097)_. Tim Ferriss and David Brazier help us pause, breath, and enjoy. <!-- spirituality, spiritual enlightenment? -->
 
 ## Ideas and Tools
 
-If the above texts form the core of my religion, then these are additional fodder for study group discussion and personal practice.
+If the above texts form the core of my religion, then these are additional study group fodder:
 
-- 80k hours
-practical texts and interesting stuff too:
-mars venus, defining decade
-buffet, cowen, sapiens for big picture context
-rework for companies
-give and take, thinking fast and slow, Quiet, Why we sleep, tim ferris dan harris
-4. Tim Ferriss Jim Collins interviews
-Jim Collins gives effective frameworks and self-study, business lessons
+- [The 80,000 Hours Podcast](https://80000hours.org/podcast/). I was hooked after listening to the [Case Against Education](https://80000hours.org/podcast/episodes/bryan-caplan-case-for-and-against-education/) and [Why We Have To Lie To Ourselves](https://80000hours.org/podcast/episodes/robin-hanson-on-lying-to-ourselves/).
 
+- _[The Defining Decade](https://smile.amazon.com/Defining-Decade-Your-Twenties-Matter/dp/0446561754/)_ and _[Men Are from Mars, Women Are from Venus](https://smile.amazon.com/gp/product/0060574216/)_. Essential guides for gracefully maturing into adulthood.
+
+- _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_, _[Stubborn Attachments](https://smile.amazon.com/Stubborn-Attachments-Prosperous-Responsible-Individuals/dp/1732265135/)_, and _[The Snowball: Warren Buffett](https://smile.amazon.com/Snowball-Warren-Buffett-Business-Life/dp/0553384619/)_. Big-picture context, long-term thinking.
+
+- _[It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm)_. The operating system for a calm company with generous policies.
+
+- _[Thinking Fast and Slow](https://smile.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)_, [Jim Collins](https://tim.blog/guest/jim-collins/), _[Give and Take](https://smile.amazon.com/Give-Take-Helping-Others-Success/dp/0143124986/)_, [Paul Graham](http://paulgraham.com/articles.html). Selected interesting and important ideas.
 
 ## Captivating Works
 
-Noteworthy "just for fun" stuff that transcends entertainment by virtue of beauty and inspiration. TODO: fix this ridiculous description line
+Noteworthy "just for fun" stuff I find beautiful:
 
+- _[Exhalation](https://smile.amazon.com/Exhalation-Ted-Chiang/dp/1101972084/)_, [_Stories of Your Life_](https://smile.amazon.com/Stories-Your-Life-Others-Chiang/dp/1101972122/). Ted Chiang is just an incredible writer.
 
-and lives in  Beauty and inspiration that goes well beyond entertainment.
+- [_Foundation_](https://smile.amazon.com/Foundation-Isaac-Asimov/dp/0553293354/), [_Ender's Game_](https://smile.amazon.com/Enders-Ender-Quintet-Orson-Scott/dp/0812550706/), [_The Fifth Season_](https://smile.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296/). Phenomenal series.
 
--
+- [_The Lathe of Heaven_](https://smile.amazon.com/Lathe-Heaven-Ursula-K-Guin/dp/1416556966/) and many more by my former neighbor, Ursula Le Guin.
 
+- [_Teaching a Stone To Talk_](https://smile.amazon.com/Teaching-Stone-Talk-Expeditions-Encounters/dp/0060915412/), [_Without Feathers_](https://smile.amazon.com/Without-Feathers-Woody-Allen/dp/0345336976/). Two favorites from great high school English teachers.
 
-great works / writing that captivates me--
-ted chiang, paul graham, ursula le guin (lathe, darkness, omelas),
-ender's game, foundation, annie dillard teaching stone to talk,
-N. K. Jemison's [_Broken Earth_](https://smile.amazon.com/Fifth-Season-Broken-Earth-Book-ebook/dp/B00H25FCSQ/)
-without feathers woody allen
-sipser and chess
-
+- [_Introduction to the Theory of Computation_](https://smile.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X/). Sipser was my favorite technical class and a wonderful teacher.
 
 
 <!--
