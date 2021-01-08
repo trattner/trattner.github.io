@@ -5,14 +5,6 @@ permalink: /influences/
 date: 2021-1-8
 ---
 
-An ongoing sense-making project to share what's been most impactful and resonant for me.
-
-## People
-
-Family, friends, teachers, colleagues, neighbors, chance acquaintances, even adversaries...so many individuals and organizations have contributed to the fabric of my experience.
-
-More than anything else, I am a product of having interacted with numerous human beings. Thank you all for your part in my life.
-
 ## Texts
 
 I am religious about four instrumental touchstones.
@@ -23,7 +15,7 @@ I am religious about four instrumental touchstones.
 
 3. <a id="carse"/>_[Finite and Infinite Games](https://smile.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713/)_. James P. Carse forges some startlingly elegant moral bifocals.
 
-4. _[Dan Harris on Becoming 10% Happier](https://tim.blog/2020/11/19/dan-harris/)_ and _[The Feeling Buddha](https://us.macmillan.com/books/9780312295097)_. Tim Ferriss and David Brazier help us pause, breath, and enjoy. <!-- spirituality, spiritual enlightenment? -->
+4. _[Dan Harris on Becoming 10% Happier](https://tim.blog/2020/11/19/dan-harris/)_ and _[The Feeling Buddha](https://us.macmillan.com/books/9780312295097)_. Tim Ferriss and David Brazier help us pause, breathe, and enjoy. <!-- spirituality, spiritual enlightenment? -->
 
 ## Ideas and Tools
 
@@ -54,9 +46,14 @@ Noteworthy "just for fun" stuff I find beautiful:
 - [_Introduction to the Theory of Computation_](https://smile.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X/). Sipser was my favorite technical class and a wonderful teacher.
 
 
+## People
+
+Family, friends, teachers, colleagues, neighbors, chance acquaintances, even adversaries...so many individuals and organizations have contributed to the fabric of my experience.
+
+More than anything else, I am a product of having interacted with numerous human beings. Thank you all for your part in my life.
+
+
 <!--
-
-
 _Ordered by personal impact + scope + chronology._
 
 **Seth Godin**: _[The Practice](https://smile.amazon.com/Practice-Shipping-Creative-Work/dp/0593328973/)_, _[Graceful](https://smile.amazon.com/Graceful-Seth-Godin-ebook/dp/B0047ZFFEA/)_, _[Stop Stealing Dreams](https://seths.blog/2014/09/the-shameful-fraud-of-sorting-for-youth-meritocracy/)_, _[Linchpin](https://smile.amazon.com/Linchpin-Are-Indispensable-Seth-Godin/dp/1591844096/)_, _[The Dip](https://smile.amazon.com/Dip-Little-Book-Teaches-Stick/dp/1591841666/)_, _[Permission Marketing](https://smile.amazon.com/Permission-Marketing-Turning-Strangers-Customers/dp/0684856360/)_, [Akimbo podcast](https://www.akimbo.link/#all-the-ways-to-listen), [Seth's daily blog](https://seths.blog/). Seth is [the reason I write](https://seths.blog/2019/06/writing-not-plastics-not-wall-street/). He covers many topics: culture, creativity, art, generosity, humanity, systems, business, marketing. He's a gateway to some of the other things listed here.

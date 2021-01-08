@@ -6,7 +6,7 @@ date: 2021-1-8
 description: 'Who is this guy?'
 ---
 
-I'm a writer livin' la vida Loja. [Join the weekly email](/join) and come [visit](/visit)!
+I'm a writer livin' la vida Loja. [Join the weekly email](/join) and [come visit](/visit)!
 
 ![](/img/happy-hammock.jpg#L)
 
@@ -14,15 +14,21 @@ I'm a writer livin' la vida Loja. [Join the weekly email](/join) and come [visit
 
 1. I [coach chess](/chess){:target="_self"} and enjoy poker, ping pong, anime.
 
-2. Most expensive purchase: my [M.I.T. math degree](/img/18c-diploma.png).
+2. Seth Godin is the cornerstone of [my religion](/influences){:target="_self"}.
 
-3. At age 9, I [became an orphan](https://www.jsonline.com/story/sports/columnists/gary-damato/2017/05/16/damato-inmate-no-500995-key-erin-hills/101438010/).
+3. Most expensive purchase: my [M.I.T. math degree](/img/18c-diploma.png).
 
-4. My sister [Wendy](https://wendytrattner.com) is cooler than me.
+4. My sister [Wendy](https://wendytrattner.com) is much cooler than me.
 
 5. I [donate at least 10% of my income](/giving-what-we-can){:target="_self"} to [effective orgs](https://www.givewell.org/).
 
 <div style="font-size:80px; text-align: center">&#9996;</div>
+
+
+
+
+<!--3. At age 9, I [became an orphan](https://www.jsonline.com/story/sports/columnists/gary-damato/2017/05/16/damato-inmate-no-500995-key-erin-hills/101438010/).-->
+
 <!--
 I'm an engineer with the heart of an educator and the spirit of an entrepreneur, currently living in Loja (Ecuador). Come [visit](/visit)!
 
