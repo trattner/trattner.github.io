@@ -35,8 +35,8 @@ _25% off everything here during January (book launch + my birthday month)! Book 
   <option value="7">10</option>
 </select>
 
-Sticker Price Total: <span id="orig-price"></span><br>
-Discounted Price Total: <span id="discount-price"></span><br>
+Sticker Price Total: <strike>$<span id="orig-price"></span><br></strike>
+Discounted Price Total: $<span id="discount-price"></span><br>
 <button id="checkout-btn" onclick="checkout()">CHECKOUT</button> <span id="redirect" style="display:none;">redirecting</span>
 <!--<div style="text-align:right;"><button style="text-align:right;">checkout</button></div>-->
 
@@ -49,7 +49,7 @@ Discounted Price Total: <span id="discount-price"></span><br>
       shipping = 6.04;
     }
     var orig_total = n_teach * 18.95  + shipping + n_enjoy * 19.99;
-    document.getElementById("orig-price").innerHTML = orig_total;
+    document.getElementById("orig-price").innerHTML = orig_total.toFixed(2);
     document.getElementById("discount-price").innerHTML = (orig_total * 0.75).toFixed(2);
     return;
   }
