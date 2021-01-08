@@ -1,19 +1,75 @@
 ---
 layout: article
-title: Influences
+title: My Greatest Influences
 permalink: /influences/
-date: 2020-10-21
+date: 2021-1-8
 ---
+
+An ongoing sense-making project to share what's been most impactful and resonant for me.
+
+## People
+
+Family, friends, teachers, colleagues, neighbors, chance acquaintances, even adversaries...many individuals and organizations have contributed innumerable important data points to the fabric of my experience.
+
+More than anything else, I am a product of having interacted with many human beings. Thank you all for your part in my life.
+
+## Texts
+
+I am religious about four instrumental touchstones.
+
+1. ["Consider Writing"](https://seths.blog/2019/06/writing-not-plastics-not-wall-street/), _[Graceful](/img/pdf/graceful-Seth-Godin-ebook.pdf)_, and _[The Practice](https://seths.blog/trust-yourself/)_. In these and many more, Seth Godin maps out a consistent, comprehensive, and generous framework for the journey of making one's ruckus in the modern world. <!--(Also: _Stop Stealing Dreams_, _Linchpin_, _The Dip_, _Permission Marketing_, _Akimbo Podcast_, _Seth's Blog_.)-->
+
+2. _[Turning Pro](https://stevenpressfield.com/books/)_. Steven Pressfield delivers a well-aimed kick in the pants to get us moving along.
+
+3. <a id="carse"/>_[Finite and Infinite Games](https://smile.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713/)_. James P. Carse gifts us some startlingly elegant moral bifocals.
+
+4. _[Dan Harris on Becoming 10% Happier](https://tim.blog/2020/11/19/dan-harris/)_ and _[The Feeling Buddha](https://us.macmillan.com/books/9780312295097)_. Tim Ferriss and David Brazier help us pause, breath, and enjoy. <!-- spirituality, spiritual enlightenment? -->
+
+## Ideas and Tools
+
+If the above texts form the core of my religion, then these are additional fodder for study group discussion and personal practice.
+
+- 80k hours
+practical texts and interesting stuff too:
+mars venus, defining decade
+buffet, cowen, sapiens for big picture context
+rework for companies
+give and take, thinking fast and slow, Quiet, Why we sleep, tim ferris dan harris
+4. Tim Ferriss Jim Collins interviews
+Jim Collins gives effective frameworks and self-study, business lessons
+
+
+## Captivating Works
+
+Noteworthy "just for fun" stuff that transcends entertainment by virtue of beauty and inspiration. TODO: fix this ridiculous description line
+
+
+and lives in  Beauty and inspiration that goes well beyond entertainment.
+
+-
+
+
+great works / writing that captivates me--
+ted chiang, paul graham, ursula le guin (lathe, darkness, omelas),
+ender's game, foundation, annie dillard teaching stone to talk,
+N. K. Jemison's [_Broken Earth_](https://smile.amazon.com/Fifth-Season-Broken-Earth-Book-ebook/dp/B00H25FCSQ/)
+without feathers woody allen
+sipser and chess
+
+
+
+<!--
+
 
 _Ordered by personal impact + scope + chronology._
 
-**Seth Godin**: _[Graceful](https://smile.amazon.com/Graceful-Seth-Godin-ebook/dp/B0047ZFFEA/)_, _[Stop Stealing Dreams](https://seths.blog/2014/09/the-shameful-fraud-of-sorting-for-youth-meritocracy/)_, _[Linchpin](https://smile.amazon.com/Linchpin-Are-Indispensable-Seth-Godin/dp/1591844096/)_, _[The Dip](https://smile.amazon.com/Dip-Little-Book-Teaches-Stick/dp/1591841666/)_, _[Permission Marketing](https://smile.amazon.com/Permission-Marketing-Turning-Strangers-Customers/dp/0684856360/)_, [Akimbo podcast](https://www.akimbo.link/#all-the-ways-to-listen), [Seth's daily blog](https://seths.blog/). Seth is [the reason I write](https://seths.blog/2019/06/writing-not-plastics-not-wall-street/). He covers many topics: culture, creativity, art, generosity, humanity, systems, business, marketing. He's a gateway to some of the other things listed here.
+**Seth Godin**: _[The Practice](https://smile.amazon.com/Practice-Shipping-Creative-Work/dp/0593328973/)_, _[Graceful](https://smile.amazon.com/Graceful-Seth-Godin-ebook/dp/B0047ZFFEA/)_, _[Stop Stealing Dreams](https://seths.blog/2014/09/the-shameful-fraud-of-sorting-for-youth-meritocracy/)_, _[Linchpin](https://smile.amazon.com/Linchpin-Are-Indispensable-Seth-Godin/dp/1591844096/)_, _[The Dip](https://smile.amazon.com/Dip-Little-Book-Teaches-Stick/dp/1591841666/)_, _[Permission Marketing](https://smile.amazon.com/Permission-Marketing-Turning-Strangers-Customers/dp/0684856360/)_, [Akimbo podcast](https://www.akimbo.link/#all-the-ways-to-listen), [Seth's daily blog](https://seths.blog/). Seth is [the reason I write](https://seths.blog/2019/06/writing-not-plastics-not-wall-street/). He covers many topics: culture, creativity, art, generosity, humanity, systems, business, marketing. He's a gateway to some of the other things listed here.
 
 [**The 80,000 Hours Podcast**](https://80000hours.org/podcast/). I was hooked after listening to the [Case Against Education](https://80000hours.org/podcast/episodes/bryan-caplan-case-for-and-against-education/) and [Why We Have To Lie To Ourselves](https://80000hours.org/podcast/episodes/robin-hanson-on-lying-to-ourselves/). These conversations helped me think more rigorously and [inspired my commitment](https://andytrattner.com/giving-what-we-can.html) to [Giving What We Can](https://www.givingwhatwecan.org/about-us/members/). Also a gateway to other items on this list.
 
 <a id="carse"/>[***Finite and Infinite Games***](https://smile.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713/) by James P. Carse. I now view nearly all human affairs through this elegant and comprehensive moral lens. Profoundly defines poetry, genius, art.
 
-[***The War of Art***](https://smile.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/). Pressfield inspires me to fight each day, striving for creativity. [*Turning Pro*](https://smile.amazon.com/Turning-Pro-Inner-Power-Create/dp/1936891034/) is the practical, concrete accompaniment I now prefer to the original manifesto. Pressfield is more relevant than Sun Tzu to surviving, competing, and thriving in today's world.
+[***The War of Art***](https://smile.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/). Pressfield inspires me to fight each day, striving for creativity. <a id="pro"/>[*Turning Pro*](https://smile.amazon.com/Turning-Pro-Inner-Power-Create/dp/1936891034/) is the practical, concrete accompaniment I now prefer to the original manifesto. Pressfield is more relevant than Sun Tzu to surviving, competing, and thriving in today's world.
 
 [***The Defining Decade***](https://smile.amazon.com/Defining-Decade-Your-Twenties-Matter/dp/0446561754/). Meg Jay changed my mind that it is indeed worthwhile to invest in traditional "normal people" life milestones like marriage.
 
@@ -36,3 +92,5 @@ _Ordered by personal impact + scope + chronology._
 [***Harry Potter***](https://smile.amazon.com/Harry-Potter-Sorcerers-Stone-Rowling-ebook/dp/B0192CTMYG/). This series taught me how to read, along with [_Eragon_](https://smile.amazon.com/Eragon-Inheritance-Book-Cycle-ebook/dp/B000FBJCK8/).
 
 I'm ommitting much great content I also really enjoyed, but the primary impact was entertainment value as opposed to any particular milestone or idea that shaped my life. For example: Asimov's [_Foundation Trilogy_](https://smile.amazon.com/Foundation-Empire-Second/dp/0307593967/), Orson Scott Card's [_Ender Quartet_](https://smile.amazon.com/Ender-Quartet-Boxed-Set-Xenocide/dp/0765362430/), N. K. Jemison's [_Broken Earth_](https://smile.amazon.com/Fifth-Season-Broken-Earth-Book-ebook/dp/B00H25FCSQ/), Le Guin's [_Left Hand of Darkness_](https://smile.amazon.com/Left-Hand-Darkness-Ursula-1987-03-15/dp/B01FKS8J2M/) and [_The Lathe of Heaven_](https://smile.amazon.com/Lathe-Heaven-Ursula-K-Guin/dp/1416556966/), [_Why We Sleep_](https://smile.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324/), [_Rich Dad Poor Dad_](https://smile.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194/), [Paul Graham's Essays](http://www.paulgraham.com/articles.html), [_Man's Search for Meaning_](https://smile.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/0807014273/), [_Love's Executioner_](https://smile.amazon.com/Loves-Executioner-Other-Tales-Psychotherapy/dp/0465020119/), [Marcus Aurelius _Meditations_](https://smile.amazon.com/Meditations-Marcus-Aurelius/dp/1545565678/), [_Quiet_](https://smile.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153/), [_Teaching A Stone To Talk_](https://smile.amazon.com/Teaching-Stone-Talk-Expeditions-Encounters/dp/0060915412/), etc. Most of all, experiences with other people have shaped my trajectory (but these beloved family, friends, and colleagues aren't available for scalable sharing on this list)!
+
+-->

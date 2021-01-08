@@ -1,6 +1,6 @@
 {% include header.html %}
 
-<!-- temporary cloudflare bypass-->
+<!-- temporary cloudflare bypass
 <style>
 input[type=text] {
   border: 2px solid #ccc;
@@ -26,13 +26,12 @@ input[type=text]:focus {
   padding-inline-start: 0px;
 }
 </style>
-
-
+-->
 
   <div class="container">
     <div class="archive-list">
       <div id="search-container">
-        <input type="text" id="search-input" placeholder="search...">
+        <input type="text" id="search-input" placeholder="search {{ site.posts | size }} blog posts...">
         <ul id="results-container">
           {% for post in site.posts %}
             {% include title-tile.html %}
@@ -43,25 +42,8 @@ input[type=text]:focus {
         {% include subscribe-btn.html %}
       </div>
     </div>
-
   </div>
 
-  <div class="foot">
-    <span class="foot-border"/><br><br>
-    <a href="/about" target="_self">About</a> | <a href="/contact">Contact</a> | <a href="#" onclick="goToRandom();" target="_self">Random</a> | <a href="/things" target="_self">Refresh</a>
-  </div>
-
-
-<script>
- var posts = [];
- {% for post in site.posts %}
-    posts.push("{{ post.url }}");
- {% endfor %}
-
- function goToRandom() {
-       window.location = posts[Math.floor(Math.random() * posts.length)];
-    }
-</script>
 
 <!-- Script pointing to search-script.js -->
 <script src="/js/search-script.js" type="text/javascript"></script>
@@ -109,5 +91,5 @@ SimpleJekyllSearch({
 });
 </script>
 
-  </body>
-</html>
+
+{% include footer.html %}

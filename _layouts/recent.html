@@ -10,21 +10,4 @@
     </div>
   </div>
 
-  <div class="foot">
-    <span class="foot-border"/><br><br>
-    <a href="/about" target="_self">About</a> | <a href="/things" target="_self">Archive</a> | <a href="https://docs.google.com/forms/d/e/1FAIpQLSfH7b6KQZvwVUkZ-pO_wKsEGPT08IfQUHVVVTNRK-WMajTjSQ/viewform?usp=sf_link">Join</a> | <a href="/contact">Contact</a> | <a href="#" onclick="goToRandom();" target="_self">Random</a>
-  </div>
-
-  <script>
-   var posts = [];
-   {% for post in site.posts %}
-      posts.push("{{ post.url }}");
-   {% endfor %}
-
-   function goToRandom() {
-         window.location = posts[Math.floor(Math.random() * posts.length)];
-      }
-  </script>
-
-  </body>
-</html>
+  {% include footer.html %}
