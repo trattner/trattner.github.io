@@ -73,7 +73,7 @@ kramdown:
     coderay_css:               style
 
 
-include: ['_pages']
+include: ['_pages','_pos_ready']
 
 
 #redirect

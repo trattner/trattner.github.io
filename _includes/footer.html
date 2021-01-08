@@ -1,10 +1,28 @@
     <div class="foot">
       <span class="foot-border"/><br>
+        <a href="/about" target="_self">About</a> | <a href="/blog" target="_self">Blog</a> | <a href="/books" target="_self">Books</a> | <a href="/chess" target="_self">Chess</a> | <a href="/contact" target="_blank">Contact</a> | <a href="/join" target="_blank">Join</a> | <a href="#" onclick="goToRandom();" target="_self">Random</a> | <a href="/visit" target="_self">Visit</a>
+    </div>
+
+    <!--
+    new:
+    about
+    blog
+    books
+    chess
+    contact
+    join
+    random
+    visit
+
+    orig
+    <div class="foot">
+      <span class="foot-border"/><br>
       <a href="#" onclick="goToRandom();" target="_self">Random</a> |
       <a href={{ page.date | date: "%m/%d/%y" | prepend: "/things#" }} target="_self">Archive</a> |
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSfH7b6KQZvwVUkZ-pO_wKsEGPT08IfQUHVVVTNRK-WMajTjSQ/viewform?usp=sf_link" target="_blank">Join</a> |
       <a href="/about" target="_self">About</a> | <a href="/contact">Contact</a>
     </div>
+    -->
 
 <script>
    var posts = [];
