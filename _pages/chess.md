@@ -9,9 +9,9 @@ I'm not accepting new students, except under extremely special circumstances. Yo
 
 ## Books
 
-***[How To Teach Your Child Chess](https://yourmovepublishing.com)***. The most fun, fast, effective way to introduce young folks to the game. No chess knowledge required. Instead of paying me or someone else $50-150+ for an hour, you can read this book in less time, and then have months or even years of quality interactions with your kid. ($18.95 + s/h, [order here!](https://yourmovepublishing.com))
+***[How To Teach Your Child Chess](https://yourmovepublishing.com)***. The most fun, fast, effective way to introduce young folks to the game. No chess knowledge required. Instead of paying me or someone else $50-150+ for an hour, you can read this book in less time, and then have months or even years of quality interactions with your kid! ($18.95 + s/h, [order here](https://yourmovepublishing.com))
 
-***[How To Enjoy Chess for Adult Beginners](https://yourmovepublishing.com)***. Become a chess insider, starting from scratch, while having a blast! ([Pre-order here](https://yourmovepublishing.com) $19.99)
+***[How To Enjoy Chess for Adult Beginners](https://yourmovepublishing.com)***. Become a chess insider, starting from scratch, while having a blast! ([pre-order here](https://yourmovepublishing.com) $19.99 total)
 
 ## Videos
 

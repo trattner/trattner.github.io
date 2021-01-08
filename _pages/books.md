@@ -85,6 +85,7 @@ Discounted Price Total: $<span id="discount-price"></span><br>
   }
 
   function checkout(){
+    redirectDots();
     var stripe = Stripe('pk_live_51I4z07DmqJwbTDJD2MyELRnWhxe0lFQnO9wyCAdAq0OfTXiKqHkj8e5j98AezGqPX9r2NSUWzNfQG7lUEdp9cmu400kpwTjeAs');
     var n_teach = parseInt(document.getElementById("teach-copies").value);
     var n_enjoy = parseInt(document.getElementById("enjoy-copies").value);
