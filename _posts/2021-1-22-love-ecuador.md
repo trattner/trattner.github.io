@@ -14,7 +14,7 @@ Buses run regularly, everywhere, accompanied by swarms of taxis. Do you want to 
 
 A dollar goes two to ten times farther in this stable USD economy. Folks may be poor on a $400 monthly income, but you don't see inequality screaming in these clean streets.
 
-The aggressively yapping dogs, however, and the osccassional spiders, scorpions, snakes...they make the big pointy-horned cow that wandered onto your front porch seem like an old friend.
+The aggressively yapping dogs, however, and the occasional spiders, scorpions, snakes...they make the big pointy-horned cow that wandered onto your front porch seem like an old friend.
 
 Life here takes a bit more work to live. Seatbelts, insurance, and nutrition facts can be difficult to come by. Don't forget to bring your own toilet paper, and make sure it ends up in the trash can.
 
