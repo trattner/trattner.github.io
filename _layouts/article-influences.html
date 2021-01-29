@@ -1,0 +1,18 @@
+{% include header.html %}
+
+  <div class="container">
+    <div class="article">
+      <article>
+        <div class="post-body">
+          {{ content }}
+        </div>
+        {% include star-counter.html %}
+        <div class="post-date">
+          {{ page.date | date: "%A %b %-d, %Y" }}
+        </div>
+      </article>
+
+    </div>
+  </div>
+
+{% include footer.html %}

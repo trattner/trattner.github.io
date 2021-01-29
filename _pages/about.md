@@ -6,7 +6,7 @@ date: 2021-1-8
 description: 'Who is this guy?'
 ---
 
-I'm a writer livin' la vida Loja. [Join the weekly email](/join) and [come visit](/visit)!
+I'm an [author](/books){:target="_self"}, [blogger](/blog){:target="_self"}, and [podcaster](/podcast){:target="_self"} livin' [la vida Loja](/visit){:target="_self"}!
 
 ![](/img/happy-hammock.jpg#L)
 
@@ -16,7 +16,7 @@ I'm a writer livin' la vida Loja. [Join the weekly email](/join) and [come visit
 
 2. Seth Godin is the cornerstone of [my religion](/influences){:target="_self"}.
 
-3. Most expensive purchase: my [M.I.T. math degree](/img/18c-diploma.png).
+3. Most expensive purchase: [M.I.T. math degree](/img/18c-diploma.png).
 
 4. My sister [Wendy](https://wendytrattner.com) is much cooler than me.
 

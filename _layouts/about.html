@@ -9,6 +9,9 @@
         <div class="post-body">
           {{ content }}
         </div>
+        <div class="archive-subscribe-wrap">
+          {% include subscribe-about-btn.html %}
+        </div>
         {% include star-counter.html %}
         <div class="post-date">
           {{ page.date | date: "%A %b %-d, %Y" }}
