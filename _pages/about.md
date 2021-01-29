@@ -2,7 +2,7 @@
 layout: about
 title: About Andy Trattner
 permalink: /about/
-date: 2021-1-8
+date: 2021-1-29
 description: 'Who is this guy?'
 ---
 
@@ -14,7 +14,7 @@ I'm an [author](/books){:target="_self"}, [blogger](/blog){:target="_self"}, and
 
 1. I [coach chess](/chess){:target="_self"} and enjoy poker, ping pong, anime.
 
-2. Seth Godin is the cornerstone of [my religion](/influences){:target="_self"}.
+2. Seth Godin is the [cornerstone of my religion](/influences){:target="_self"}.
 
 3. Most expensive purchase: [M.I.T. math degree](/img/18c-diploma.png).
 
