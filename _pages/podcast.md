@@ -2,9 +2,9 @@
 layout: article
 title: Yup & Coming
 permalink: /podcast/
-date: 2021-1-29
+date: 2021-2-4
 ---
 
-I talk with exceptional young (mid-20s) professionals about their unique life stories and inspiring projects, exploring how to thoughtfully navigate the school &rarr; work transition and launch a career to be proud of.
+Listen, subscribe, and ask questions on the official site: [YupAndComing.com](https://yupandcoming.com)!
 
-Coming soon.
+Learn more about how the podcast came together [here](/podcast-launch).
