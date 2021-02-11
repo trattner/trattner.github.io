@@ -5,6 +5,12 @@ permalink: /podcast/
 date: 2021-2-4
 ---
 
-Listen, subscribe, and ask questions on the official site: [YupAndComing.com](https://yupandcoming.com)!
+Redirecting...
 
-Learn more about how the podcast came together [here](/podcast-launch).
+to [YupAndComing.com](https://yupandcoming.com)
+
+<script>
+window.onload = function () {
+  window.location.href="https://yupandcoming.com";
+}
+</script>
