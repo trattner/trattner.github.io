@@ -20,7 +20,7 @@ Family, friends, and potential employers were frequently perplexed by my existen
 
 I was very lucky to land a full-time role in customer operations at [Scale AI](https://scale.com) after two failed tries with other teams in the same company. One of my managers shared some valuable feedback by poking fun at me after we had established great rapport.
 
-Apparently, he was initially against hiring me because I bombed the interview question about my recent work. I had foolishly included driving Uber in my laundry list of odd jobs, then proceeded to talk about inane details when asked to explain customer service lessons learned (hint: don't ramble about breaking more smoothly and not initiating conversations with headphone-wearing passengers).
+Apparently, he was initially against hiring me because I bombed the interview question about my recent work. I had foolishly included driving Uber in my laundry list of odd jobs, then proceeded to talk about inane details when asked to explain customer service lessons learned (hint: don't ramble about braking more smoothly and not initiating conversations with headphone-wearing passengers).
 
 Because I didn't speak at the right level of abstraction to nail the question, my poor interviewers were bamboozled. Why were they considering hiring me as a customer engineer for large, highly sophisticated machine learning accounts?
 

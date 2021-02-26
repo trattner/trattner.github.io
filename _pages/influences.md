@@ -2,7 +2,7 @@
 layout: article-influences
 title: My Greatest Influences
 permalink: /influences/
-date: 2021-1-8
+date: 2021-2-25
 ---
 
 ## Religious Touchstones
@@ -15,7 +15,7 @@ date: 2021-1-8
 
 4. _[Dan Harris on Becoming 10% Happier](https://tim.blog/2020/11/19/dan-harris/)_ and _[The Feeling Buddha](https://us.macmillan.com/books/9780312295097)_. Tim Ferriss and David Brazier help us pause, breathe, and enjoy. <!-- spirituality, spiritual enlightenment? -->
 
-## Supplementary Ideas and Tools
+## Useful Ideas and Tools
 
 1. [The 80,000 Hours Podcast](https://80000hours.org/podcast/). I was hooked after listening to the [Case Against Education](https://80000hours.org/podcast/episodes/bryan-caplan-case-for-and-against-education/) and [Why We Have To Lie To Ourselves](https://80000hours.org/podcast/episodes/robin-hanson-on-lying-to-ourselves/).
 
@@ -27,24 +27,28 @@ date: 2021-1-8
 
 5. _[Thinking Fast and Slow](https://smile.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)_, [Jim Collins](https://tim.blog/guest/jim-collins/), _[Give and Take](https://smile.amazon.com/Give-Take-Helping-Others-Success/dp/0143124986/)_, [Paul Graham](http://paulgraham.com/articles.html). Selected interesting and important works.
 
+
+## Captivating and Beautiful
+
+1. _[Educated](https://smile.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501)_. Tara Westover's epic true story is humbling, horrifying, inspiring, and poetic.
+
+2. _[Exhalation](https://smile.amazon.com/Exhalation-Ted-Chiang/dp/1101972084/)_, [_Stories of Your Life_](https://smile.amazon.com/Stories-Your-Life-Others-Chiang/dp/1101972122/). Loved the movie _Arrival_, and Ted Chiang is an even more incredible writer.
+
+3. [_Foundation_](https://smile.amazon.com/Foundation-Isaac-Asimov/dp/0553293354/), [_Ender's Game_](https://smile.amazon.com/Enders-Ender-Quintet-Orson-Scott/dp/0812550706/), [_The Fifth Season_](https://smile.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296/). Phenomenal fiction series.
+
+4. [_The Lathe of Heaven_](https://smile.amazon.com/Lathe-Heaven-Ursula-K-Guin/dp/1416556966/) and many more by my legendary former neighbor, Ursula Le Guin.
+
+5. [_Teaching a Stone To Talk_](https://smile.amazon.com/Teaching-Stone-Talk-Expeditions-Encounters/dp/0060915412/), [_Without Feathers_](https://smile.amazon.com/Without-Feathers-Woody-Allen/dp/0345336976/). Two favorites recommended by great high school English teachers.
+
+6. [_Introduction to the Theory of Computation_](https://smile.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X/). Sipser is a wonderful teacher, and his was my favorite technical class at MIT.
+
+
 ## People
 
 Family, friends, teachers, colleagues, neighbors, chance acquaintances, even adversaries...so many individuals and organizations have contributed to the fabric of my experience.
 
 More than anything else, I am the product of numerous interactions with wonderful human beings. Thank you all for your part in my life.
 
-
-## Captivating, Beautiful, Just For Fun
-
-1. _[Exhalation](https://smile.amazon.com/Exhalation-Ted-Chiang/dp/1101972084/)_, [_Stories of Your Life_](https://smile.amazon.com/Stories-Your-Life-Others-Chiang/dp/1101972122/). Ted Chiang is just an incredible writer.
-
-2. [_Foundation_](https://smile.amazon.com/Foundation-Isaac-Asimov/dp/0553293354/), [_Ender's Game_](https://smile.amazon.com/Enders-Ender-Quintet-Orson-Scott/dp/0812550706/), [_The Fifth Season_](https://smile.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296/). Phenomenal series.
-
-3. [_The Lathe of Heaven_](https://smile.amazon.com/Lathe-Heaven-Ursula-K-Guin/dp/1416556966/) and many more by my former neighbor, Ursula Le Guin.
-
-4. [_Teaching a Stone To Talk_](https://smile.amazon.com/Teaching-Stone-Talk-Expeditions-Encounters/dp/0060915412/), [_Without Feathers_](https://smile.amazon.com/Without-Feathers-Woody-Allen/dp/0345336976/). Two favorites from great high school English teachers.
-
-5. [_Introduction to the Theory of Computation_](https://smile.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X/). Sipser was my favorite technical class and a wonderful teacher.
 
 
 

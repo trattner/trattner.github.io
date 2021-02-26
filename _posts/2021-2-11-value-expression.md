@@ -2,6 +2,7 @@
 layout: article
 title: Important But Not Urgent
 date: 2021-2-11
+category: examined living
 ---
 
 I've tried many different to-do lists and life tracking methods. I find very few stick.
