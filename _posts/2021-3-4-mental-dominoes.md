@@ -11,15 +11,17 @@ Despite the lack of internal fireworks, my simple decision to try something new 
 
 For example, my blog post was listed on the [Giving What We Can member stories page](https://www.givingwhatwecan.org/case-studies-people-who-pledge-to-give/#stories). I got a message from a stranger named John on Christmas Eve. We had a call, which apparently [played a part in his decision](https://yanjoblog.wordpress.com/2021/01/31/my-doing-good-journey/) to take the pledge too.  
 
-This week, I made a similar decision to get therapy. Again it felt easy, almost trivial or silly...one of those things you know you should do, and easily could do, but don't.
+(Conservatively estimating a Facebook engineer's salary at $150k for a 15 year career, that's nearly a quarter of a million dollars diverted to effective charities. It looks like John has now taken up blogging too, and might similarly impact others. Even if I played a small role here, the results could be quite large.) 
 
-When something languishes in the [important but not urgent quadrant](/value-expression) of the to-do list, an external nudge is often required before you get around to it. Then you think, "why didn't I do this sooner?"
+This week, I made a similar decision to get therapy. This has been languishing in the [important but not urgent quadrant](/value-expression) of the to-do list, just like donating was prior to last year.
 
-This time for me the nudge was a timely email from the inimitable [Lissy Alden](https://www.aldencollective.co/) inviting me to join her beta [MYNDY mental fitness experience](https://myndy.co/).
+I've known for a while that I should do it, and easily could do it, but I just haven't felt impassioned. The rational machine in my head needed an external nudge.
 
-After investing a few hundred dollars, and more importantly my undivided attention for the first workshop on Monday, I found myself wanting more. And it occurred to me that I wasn't living in full alignment with how I envisioned my 2021 at the start of the year.
+It came in the form of a timely email from the inimitable [Lissy Alden](https://www.aldencollective.co/) inviting me to join her beta [MYNDY mental fitness experience](https://myndy.co/). Sure, I could do this friend a favor and perhaps reap some personal benefit as well, no problem.
 
-Sure I was meditating for 30 minutes daily, but I hadn't followed through on my other resolution to get therapy. And I had no good reason for this procrastination.
+After investing a few hundred dollars, and more importantly my undivided attention for the first workshop on Monday, I found myself wanting more. It occurred to me that I wasn't living in full alignment with how I envisioned my 2021 at the start of the year.
+
+I was meditating for 30 minutes daily, but I hadn't followed through on my other resolution to get therapy. And I had no good reason for this procrastination.
 
 It took a couple false starts and some self-disciplining yesterday, but I eventually reached out to a few therapists from [Psychology Today's listings](https://www.psychologytoday.com/us/therapists):
 
