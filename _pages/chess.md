@@ -13,8 +13,12 @@ I'm not accepting new students, except under extremely special circumstances. Yo
 
 ***[How To Enjoy Chess for Adult Beginners](https://yourmovepublishing.com)***. Become a chess insider, starting from scratch, while having a blast! ([pre-order here](https://yourmovepublishing.com) $19.99 total)
 
-## Videos
+## Video Playlists
 
+**How To Enjoy Chess for Adult Beginners**
+- [Learn Chess Piece Fundamentals](https://www.youtube.com/playlist?list=PLHXGGjSGT0pKHLbo07upLMdIlhv8Ac27m)
+
+**Teach Your Child Chess**
 0. [Intro - How To Teach Chess To Your Child](https://www.youtube.com/watch?v=UR1MARhlbzE)
 1. [Bishops + Rooks](https://www.youtube.com/watch?v=tOCvJRJ0Rxg)
 2. [Knight Battleship](https://www.youtube.com/watch?v=aH7SNfI6bKw)
