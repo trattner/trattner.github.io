@@ -4,6 +4,7 @@ title: About Andy Trattner
 permalink: /about/
 date: 2021-1-29
 description: 'Who is this guy?'
+searchable: true
 ---
 
 I'm an [author](/books){:target="_self"}, [blogger](/blog){:target="_self"}, and [podcaster](/podcast){:target="_self"} livin' [la vida Loja](/visit){:target="_self"}!

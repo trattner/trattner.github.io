@@ -2,6 +2,7 @@
 layout: article
 title: Join The Weekly Email
 permalink: /join/
+searchable: false
 ---
 
 Redirecting...

@@ -3,6 +3,7 @@ layout: article-influences
 title: My Greatest Influences
 permalink: /influences/
 date: 2021-2-25
+searchable: true
 ---
 
 ## Religious Touchstones

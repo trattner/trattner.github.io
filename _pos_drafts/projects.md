@@ -3,6 +3,7 @@ layout: about
 title: Personal Project Activity Log
 permalink: /projects/
 date: 2020-9-11
+searchable: 0
 ---
 
 9/11/20: blog post

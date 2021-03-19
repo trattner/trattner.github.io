@@ -12,7 +12,7 @@ Now we can see the results from Jenny's year of leadership. Hundreds have joined
 
 I experienced a setback when I [first came to Ecuador last November](/ecuador). Due to the altitude, I panted walking up a slight incline. I could barely jog a kilometer. So I remembered Jenny's example and decided to do something about it, one step at a time.
 
-Within a couple months, regular running acclimated my cardiovascular system to the [baseline](/normal) performance I previously had at sea level in San Francisco. 5K is now the daily minimum, no problem.
+Within a couple months, regular running acclimated my cardiovascular system to the [baseline performance](/normal) I previously had at sea level in San Francisco. 5K is now the daily minimum, no problem.
 
 If our eyes are open to it, we see the same story playing out in so many ways. One more example: the Human Genome Project. This was a daunting undertaking in 1990 to sequence 3 billion base pairs.
 
@@ -24,7 +24,7 @@ Important work takes aim at a meaningful result, which won’t necessarily occur
 
 Learning a new language, writing a novel, playing an instrument, or flying to the moon…we have to build momentum with incremental—often tedious—bursts of effort.
 
-So much unhappiness and stress can be avoided by merely [committing](https://seths.blog/2014/12/daily/) to the journey. [Decide once](https://seths.blog/2020/08/drop-in/) to prioritize and focus, for however long it takes. Ignore the nay-sayers and get moving.
+So much unhappiness and stress can be avoided by merely [committing](https://seths.blog/2014/12/daily/). Ignore the nay-sayers and get moving. [Decide once](https://seths.blog/2020/08/drop-in/) to prioritize and focus, for however long it takes. 
 
 The bulletin board at the Chinatown YMCA reminds all the skinny old lovelies on their elliptical machines:
 
