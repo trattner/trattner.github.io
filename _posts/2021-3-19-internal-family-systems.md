@@ -41,11 +41,11 @@ Intricately linked with the competent controller is the ambitious planner mentio
 
 For example, the ambitious planner told the competent controller that we're going to seek therapy, just in case it's useful, and we're going to do this super amazingly perfectly well in order to become a more productive person. Then the competent controller was empowered to work within that constraint to interview 5 different providers and judge the best one itself, rejecting any online reviews or external guidance.
 
-The ambitious planner sets extreme goals, likes to make detailed plans, and needs projects with outsized impact to feel useful. These things ultimately give its life meaning. The ambitious planner isn't so much self-confident in juxtopposition to reliance as it is competitive&mdash;fearing non-contributing uselessness, unworthiness, and nihilistic meaninglessness.
+The ambitious planner sets extreme goals, likes to make detailed plans, and needs projects with outsized impact to feel useful. These things ultimately give its life meaning. The ambitious planner isn't so much self-confident in juxtaposition to reliance as it is competitive&mdash;fearing non-contributing uselessness, unworthiness, and nihilistic meaninglessness.
 
 When conflict tore my nuclear family to shreds, the ambitious planner worked with the competent controller to envision a positive future existence, jointly holding me together through years of turbulence. The ambitious planner has trouble relaxing its grip because it feels shame around emptiness, which is the part nestled next to reliance&mdash;usually squeezed too tight&mdash;that holds space for love to enter from outside of me.
 
-My core Self recognizes much of these dynamics but often takes a back seat, letting the parts do the talking directly instead of speaking on behalf of the parts. It's most likely seen by the other parts as an exiled 7-9 year old sitting on the sofa reading Harry Potter, having sleepovers, and building Hotwheels tracks back home in Mequon Wisconsin.
+My core Self recognizes much of these dynamics but often takes a back seat, letting the parts do the talking directly instead of speaking on behalf of the parts. It's most likely seen by the other parts as an exiled 7-9 year old sitting on the sofa reading Harry Potter, having sleepovers, and building Hot Wheels tracks back home in Mequon Wisconsin.
 
 This core Self is fine with being wrong and enjoys learning about this crazy, miraculous world we live in. He's curious, open, present, flowing, domestic, reflective. Thankfully, he projects enough tranquility such that the ambitious planner and the competent controller don't get too crazy or self-flagellating.
 
