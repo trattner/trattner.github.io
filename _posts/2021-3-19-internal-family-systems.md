@@ -5,7 +5,7 @@ date: 2021-3-19
 category: examined living
 ---
 
-_Edit: better than anything that I can say is for you to just go listen to [Richard Schwartz performing IFS therapy on Tim Ferriss](https://tim.blog/2021/01/14/richard-schwartz-internal-family-systems/), very powerful._
+_Edit: better than anything that I can say is [Richard Schwartz performing IFS therapy live on Tim Ferriss](https://tim.blog/2021/01/14/richard-schwartz-internal-family-systems/), very powerful._
 
 Since finishing high school in 2014, I have developed the bad habit of spontaneously playing chess online.
 
