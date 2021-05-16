@@ -14,9 +14,9 @@ His six-figure bank account makes no sense at all to me.
 
 Both people have expressed the desire to passively invest their savings, but they haven't yet had any experience doing so. They are afraid of losing money in the stock market, and they don't have anyone around them who talks about this stuff.
 
-In case other folks out there are in a similar situation, this week I felt I had to write something about investing. I highly encourage everyone to go put the money you don't need within the next couple years somewhere other than a bank!  
+In case other folks out there are in a similar situation, this week I felt I had to write something about investing. I highly encourage everyone to go put the money you don't need within the next couple years somewhere other than a bank. 
 
-My first account was opened almost exactly 7 years ago with Vanguard's minimum deposit. It has remained my primary place to deposit savings, all of which have gone into the [S&P 500](https://investor.vanguard.com/mutual-funds/profile/VFIAX). Here are the gains and losses to date:
+My first account was opened almost exactly 7 years ago with Vanguard's minimum deposit. It has remained my primary place to deposit savings, all of which have gone into the [S&P 500](https://investor.vanguard.com/mutual-funds/profile/VFIAX). Here are the gains and losses to date...all that green is free money!
 
 ![](/img/performance.png)
 
