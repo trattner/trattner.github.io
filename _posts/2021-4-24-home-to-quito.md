@@ -50,4 +50,4 @@ This month's trip hit home how I need to revise my internal language around roma
 
 It sounds so obvious to write that, but it’s also super empowering. I’ve put in a lot of work trying and failing to do right in my relationships, career, passion projects, and love life. There have been reasonable successes, sure...but I'm very hungry for more. 
 
-Looking forward to connecting more intentionality and feeling to it allgit going forward.
+Excited to connect more intentionality and feeling to it all going forward.
