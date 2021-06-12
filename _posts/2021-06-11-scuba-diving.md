@@ -10,7 +10,7 @@ I'll never forget the advice [Paul Hand](https://www.khoury.northeastern.edu/peo
 
 Paul's wisdom didn't stop me from taking Apocalyptic Storytelling, Foundations of Internet Policy, and Advanced Algorithms. All were fascinating and worthwhile.
 
-On the other hand, Intro to Weightlifing, Spanish, and Software Construction have not only stood the test of time but grown into significant parts of my life and identity.
+On the other hand, Intro to Weightlifting, Spanish, and Software Construction have not only stood the test of time but grown into significant parts of my life and identity.
 
 Ideally we can have our cake and eat it too. Getting scuba certified last week was an exotic, novelty-filled adventure as well as an opportunity to download a life-changing set of skills.
 
