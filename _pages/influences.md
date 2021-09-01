@@ -24,7 +24,7 @@ searchable: true
 
 3. _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_, _[Stubborn Attachments](https://smile.amazon.com/Stubborn-Attachments-Prosperous-Responsible-Individuals/dp/1732265135/)_, and _[The Snowball: Warren Buffett](https://smile.amazon.com/Snowball-Warren-Buffett-Business-Life/dp/0553384619/)_. Big-picture context, long-term thinking.
 
-4. _[It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm)_. The operating system for a calm company with generous policies.
+4. _[It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm){:id="rework"}_ (preferred vs [_Rework_](https://basecamp.com/books/rework)). The operating system for a calm company with generous policies.
 
 5. _[Thinking Fast and Slow](https://smile.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)_, [Jim Collins](https://tim.blog/guest/jim-collins/), _[Give and Take](https://smile.amazon.com/Give-Take-Helping-Others-Success/dp/0143124986/)_, [Paul Graham](http://paulgraham.com/articles.html). Selected interesting and important works.
 
