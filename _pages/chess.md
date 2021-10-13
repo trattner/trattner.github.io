@@ -21,7 +21,7 @@ searchable: true
 
 ***[How To Teach Your Child Chess](https://yourmovepublishing.com)***. Don't pay $50-150+ for an hour of coaching. You can read this book in less time, then have months or even years of quality interactions with your kid! ($18.95 + s/h, [preview and order here](https://yourmovepublishing.com))
 
-***[How To Enjoy Chess for Adult Beginners](https://yourmovepublishing.com)***. Become a chess insider, starting from scratch, while having a blast! ($18.95 + s/h,[order here](https://yourmovepublishing.com))
+***[How To Enjoy Chess for Adult Beginners](https://yourmovepublishing.com)***. Become a chess insider, starting from scratch, while having a blast! ($18.95 + s/h, [order here](https://yourmovepublishing.com))
 
 
 ## Articles
