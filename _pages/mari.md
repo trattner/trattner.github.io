@@ -1,4 +1,10 @@
 ---
+layout: about
+title: Mari
+permalink: /mari/
+date: 2021-1-29
+description: 'Who is this guy?'
+searchable: false
 ---
 
 <!-- Load Stripe.js on your website. -->
