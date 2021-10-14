@@ -35,8 +35,8 @@ searchable: false
        * Instead use one of the strategies described in
        * https://stripe.com/docs/payments/checkout/fulfill-orders
        */
-      successUrl: 'https://your-move-publishing.github.io/success',
-      cancelUrl: 'https://your-move-publishing.github.io/canceled',
+      successUrl: 'https://yourmovepublishing.com/success',
+      cancelUrl: 'https://yourmovepublishing.com/canceled',
     })
     .then(function (result) {
       if (result.error) {
