@@ -4,6 +4,91 @@
   font-family: 'Alice', serif;
 }
 
+/* Styling the area of the slides */
+#slideshow {
+  overflow: hidden;
+  height: 683px;
+  width: 512px;
+  margin: 0 auto;
+}
+
+/* Style each of the sides
+with a fixed width and height */
+.slide {
+  float: left;
+  height: 683px;
+  width: 512px;
+}
+
+/* Add animation to the slides */
+.slide-wrapper {
+
+/* Calculate the total width on the
+  basis of number of slides */
+  width: calc(512px * 5);
+
+/* Specify the animation with the
+  duration and speed */
+  animation: slide 22s ease infinite;
+}
+
+.slide-img {
+  width: 100%;
+}
+
+/* Define the animation
+for the slideshow */
+@keyframes slide {
+
+/* Calculate the margin-left for
+  each of the slides */
+  16.66% {
+    margin-left: 0px;
+  }
+
+  33.33% {
+    margin-left: calc(-512px * 1);
+  }
+
+  50% {
+    margin-left: calc(-512px * 2);
+  }
+
+  66.66% {
+    margin-left: calc(-512px * 3);
+  }
+
+  83.33% {
+    margin-left: calc(-512px * 4);
+  }
+
+}
+
+nav {
+  text-align: center;
+  font-size: 26px;
+  padding-bottom: 12px;
+}
+
+nav a{
+  padding-left: 12px;
+  padding-right: 12px;
+
+}
+
+#landing-title{
+  text-align: center;
+  padding-top: 3%;
+  font-size: 48px;
+}
+#landing-email {
+  text-align: center;
+  font-weight: 150;
+  font-size: 14px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 .article{
   margin: auto;
   width: 55%;
@@ -367,6 +452,56 @@ and (max-device-width : 568px) { /* small iPhone */
   .nice-btn-wrap {
     width:100%;
   }
+  #slideshow {
+    height: calc(410px * 683 / 512);
+    width: 410px;
+  }
+  .slide {
+    height: calc(410px * 683 / 512);
+    width: 410px;
+  }
+
+  .slide-wrapper {
+    width: calc(410px * 5);
+  }
+  @keyframes slide {
+    16.66% {
+      margin-left: 0px;
+    }
+    33.33% {
+      margin-left: calc(-410px * 1);
+    }
+    50% {
+      margin-left: calc(-410px * 2);
+    }
+    66.66% {
+      margin-left: calc(-410px * 3);
+    }
+    83.33% {
+      margin-left: calc(-410px * 4);
+    }
+  }
+
+  nav {
+    font-size: 20px;
+    padding-bottom: 12px;
+  }
+
+  nav a{
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  #landing-title{
+    padding-top: 3%;
+    font-size: 35px;
+  }
+  #landing-email {
+    font-weight: 150;
+    font-size: 12px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
 }
 
 @media only screen
@@ -378,9 +513,110 @@ and (max-device-width : 768px) { /* bigger phone */
   .nice-btn-wrap {
     width:100%;
   }
+  #slideshow {
+    height: calc(450px * 683 / 512);
+    width: 450px;
+  }
+  .slide {
+    height: calc(450px * 683 / 512);
+    width: 450px;
+  }
+
+  .slide-wrapper {
+    width: calc(450px * 5);
+  }
+  @keyframes slide {
+    16.66% {
+      margin-left: 0px;
+    }
+    33.33% {
+      margin-left: calc(-450px * 1);
+    }
+    50% {
+      margin-left: calc(-450px * 2);
+    }
+    66.66% {
+      margin-left: calc(-450px * 3);
+    }
+    83.33% {
+      margin-left: calc(-450px * 4);
+    }
+  }
+
+  nav {
+    font-size: 22px;
+    padding-bottom: 12px;
+  }
+
+  nav a{
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  #landing-title{
+    padding-top: 3%;
+    font-size: 38px;
+  }
+  #landing-email {
+    font-weight: 150;
+    font-size: 13px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
 }
 
 @media only screen and (max-device-width: 480px) {
+
+  #slideshow {
+    height: calc(320px * 683 / 512);
+    width: 320px;
+  }
+  .slide {
+    height: calc(320px * 683 / 512);
+    width: 320px;
+  }
+
+  .slide-wrapper {
+    width: calc(320px * 5);
+  }
+  @keyframes slide {
+    16.66% {
+      margin-left: 0px;
+    }
+    33.33% {
+      margin-left: calc(-320px * 1);
+    }
+    50% {
+      margin-left: calc(-320px * 2);
+    }
+    66.66% {
+      margin-left: calc(-320px * 3);
+    }
+    83.33% {
+      margin-left: calc(-320px * 4);
+    }
+  }
+
+  nav {
+    font-size: 18px;
+    padding-bottom: 12px;
+  }
+
+  nav a{
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  #landing-title{
+    padding-top: 3%;
+    font-size: 32px;
+  }
+  #landing-email {
+    font-weight: 150;
+    font-size: 12px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
 
   .nice-btn-wrap {
     width:100%;
