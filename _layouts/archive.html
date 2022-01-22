@@ -30,6 +30,16 @@ input[type=text]:focus {
 
   <div class="container">
     <div class="archive-list">
+
+      <div class="archive-subscribe-wrap">
+        <div class="nice-btn-wrap">
+          <a class="nice-btn" href="https://world.hey.com/tratt" target="_blank">subscribe</a>
+        </div>
+      </div>
+      <hr>
+      <br><br>
+      <h1>Original Blog</h1>
+      <br>
       <div id="search-container">
         <input type="text" id="search-input" placeholder="search {{ site.posts | size }} blog posts...">
         <ul id="results-container">
@@ -89,7 +99,13 @@ SimpleJekyllSearch({
   searchResultTemplate: '<div class="archive-link"><a href="{url}" target="_self"><span class="archive-title">{title}</span><br><span class="archive-date">{date}</span></a></div>',
   noResultsText: "Nothing found for that search :( <br><br><br>"
 });
+
+  const RSS_URL = `https://world.hey.com/tratt/feed.atom`;
+
+  fetch(RSS_URL)
+  .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+  .then(data => console.log(data));
 </script>
 
 
-{% include footer.html %}
+{% include new-footer.html %}
