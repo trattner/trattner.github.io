@@ -30,6 +30,12 @@ input[type=text]:focus {
 
   <div class="container">
     <div id="archive" class="archive-list">
+      <!-- TODO
+      - locally run site
+      - subscribe button, load more, and hey world header
+      - put loading message here
+      - swap loading message for failure or post list
+     -->
       <br>
       <div class="archive-subscribe-wrap">
         <div class="nice-btn-wrap">
@@ -107,6 +113,8 @@ SimpleJekyllSearch({
       url: "https://api.rss2json.com/v1/api.json?rss_url=" + feedURL,
       dataType: 'jsonp',
       success: function(result) {
+        console.log(result);
+
         var container = document.createElement("div");
 
         for (item of result.items){
