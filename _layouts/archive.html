@@ -29,8 +29,8 @@ input[type=text]:focus {
 -->
 
   <div class="container">
-    <div class="archive-list">
-
+    <div id="archive" class="archive-list">
+      <br>
       <div class="archive-subscribe-wrap">
         <div class="nice-btn-wrap">
           <a class="nice-btn" href="https://world.hey.com/tratt" target="_blank">subscribe</a>
@@ -100,11 +100,50 @@ SimpleJekyllSearch({
   noResultsText: "Nothing found for that search :( <br><br><br>"
 });
 
-  const RSS_URL = `https://world.hey.com/tratt/feed.atom`;
+  $(window).on('ready', function(){
+    var feedURL = "https://world.hey.com/tratt/feed.atom";
+    $.ajax({
+      type: 'GET',
+      url: "https://api.rss2json.com/v1/api.json?rss_url=" + feedURL,
+      dataType: 'jsonp',
+      success: function(result) {
+        var container = document.createElement("div");
 
-  fetch(RSS_URL)
-  .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
-  .then(data => console.log(data));
+        for (item of result.items){
+          var post_tile = document.createElement("div");
+          post_tile.className="archive-link";
+
+          var post_link = document.createElement("a");
+          post_link.href = item.link;
+
+          var br = document.createElement("br");
+
+          var post_title = document.createElement("span");
+          post_title.textContent = item.title;
+          post_title.className="archive-title";
+          post_link.appendChild(post_title);
+          post_link.appendChild(br);
+
+          var post_title = document.createElement("span");
+          post_title.textContent = item.title;
+          post_title.className="archive-title";
+          post_link.appendChild(post_title);
+          post_link.appendChild(br);
+
+          var date = new Date(Date.parse(item.pubDate));
+          var date_string = date.getMonth() +' / ' + date.getDate() + ' / ' + date.getFullYear();
+          var post_date = document.createElement("span");
+          post_date.textContent = date_string;
+          post_date.className="archive-date";
+          post_link.appendChild(post_date);
+
+          post_tile.appendChild(post_link);
+          container.appendChild(post_tile);
+        }
+        document.getElementById('archive').prepend(container);
+      }
+    });
+  });
 </script>
 
 
