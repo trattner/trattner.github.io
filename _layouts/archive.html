@@ -30,8 +30,9 @@ input[type=text]:focus {
 
   <div class="container">
     <div id="archive" class="archive-list">
+      <span id="loading-message"><i>Loading posts from new blog <a href="https://world.hey.com/tratt">https://world.hey.com/tratt</a></i></span>
+
       <!-- TODO
-      - locally run site
       - subscribe button, load more, and hey world header
       - put loading message here
       - swap loading message for failure or post list
@@ -39,24 +40,23 @@ input[type=text]:focus {
       <br>
       <div class="archive-subscribe-wrap">
         <div class="nice-btn-wrap">
-          <a class="nice-btn" href="https://world.hey.com/tratt" target="_blank">subscribe</a>
+          <a class="nice-btn" href="https://world.hey.com/tratt" target="_blank">See more + subscribe on Hey!</a>
         </div>
       </div>
+      <br><br>
+      <br><br>
       <hr>
       <br><br>
-      <h1>Original Blog</h1>
-      <br>
-      <div id="search-container">
-        <input type="text" id="search-input" placeholder="search {{ site.posts | size }} blog posts...">
-        <ul id="results-container">
-          {% for post in site.posts %}
-            {% include title-tile.html %}
-          {% endfor %}
-        </ul>
-      </div>
-      <div class="archive-subscribe-wrap">
-        {% include subscribe-btn.html %}
-      </div>
+        <h1>Original Blog pre-Hey</h1>
+        <br>
+        <div id="search-container">
+          <input type="text" id="search-input" placeholder="search {{ site.posts | size }} blog posts...">
+          <ul id="results-container">
+            {% for post in site.posts %}
+              {% include title-tile.html %}
+            {% endfor %}
+          </ul>
+        </div>
     </div>
   </div>
 
@@ -106,8 +106,19 @@ SimpleJekyllSearch({
   noResultsText: "Nothing found for that search :( <br><br><br>"
 });
 
-  $(window).on('ready', function(){
-    var feedURL = "https://world.hey.com/tratt/feed.atom";
+  $(document).ready(function(){
+    const feedURL = 'https://world.hey.com/tratt/feed.atom';
+    var load_elem = document.getElementById('loading-message');
+    var n_periods = 0;
+    var int_fn = setInterval(function(){
+      load_elem.innerHTML += " .";
+      n_periods += 1;
+      if (n_periods > 15){
+        load_elem.innerHTML += "<br>ERROR, FAILED TO LOAD POSTS HERE.<br><br>Please go to the hey world site directly!<br>Click the link above, or the button below.<br>"
+        clearInterval(int_fn);
+      }
+    }, 200);
+
     $.ajax({
       type: 'GET',
       url: "https://api.rss2json.com/v1/api.json?rss_url=" + feedURL,
@@ -132,14 +143,8 @@ SimpleJekyllSearch({
           post_link.appendChild(post_title);
           post_link.appendChild(br);
 
-          var post_title = document.createElement("span");
-          post_title.textContent = item.title;
-          post_title.className="archive-title";
-          post_link.appendChild(post_title);
-          post_link.appendChild(br);
-
           var date = new Date(Date.parse(item.pubDate));
-          var date_string = date.getMonth() +' / ' + date.getDate() + ' / ' + date.getFullYear();
+          var date_string = date.getMonth() + 1 +' / ' + date.getDate() + ' / ' + date.getFullYear();
           var post_date = document.createElement("span");
           post_date.textContent = date_string;
           post_date.className="archive-date";
@@ -149,6 +154,8 @@ SimpleJekyllSearch({
           container.appendChild(post_tile);
         }
         document.getElementById('archive').prepend(container);
+        load_elem.style.height='0px';
+        load_elem.style.display='none';
       }
     });
   });
