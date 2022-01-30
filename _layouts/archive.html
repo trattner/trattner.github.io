@@ -30,13 +30,9 @@ input[type=text]:focus {
 
   <div class="container">
     <div id="archive" class="archive-list">
+      <h1 id="recent-title">Recent Posts</h1>
       <span id="loading-message"><i>Loading posts from new blog <a href="https://world.hey.com/tratt">https://world.hey.com/tratt</a></i></span>
 
-      <!-- TODO
-      - subscribe button, load more, and hey world header
-      - put loading message here
-      - swap loading message for failure or post list
-     -->
       <br>
       <div class="archive-subscribe-wrap">
         <div class="nice-btn-wrap">
@@ -144,7 +140,7 @@ SimpleJekyllSearch({
           post_link.appendChild(br);
 
           var date = new Date(Date.parse(item.pubDate));
-          var date_string = date.getMonth() + 1 +' / ' + date.getDate() + ' / ' + date.getFullYear();
+          var date_string = date.getMonth() + 1 +' / ' + date.getDate() + ' / ' + (date.getFullYear()-2000).toString();
           var post_date = document.createElement("span");
           post_date.textContent = date_string;
           post_date.className="archive-date";
@@ -153,7 +149,8 @@ SimpleJekyllSearch({
           post_tile.appendChild(post_link);
           container.appendChild(post_tile);
         }
-        document.getElementById('archive').prepend(container);
+        container.prepend(document.createElement("br"));
+        document.getElementById('recent-title').after(container);
         load_elem.style.height='0px';
         load_elem.style.display='none';
       }

@@ -60,4 +60,4 @@ Andy has developed curriculum on the teaching staff of the [Saint Louis Chess Cl
 
 ## Private Lessons
 
-I'm not accepting new students, except under extremely special circumstances. You are welcome to [contact me](/contact).
+I'm not accepting new students, except under extremely special circumstances. You are welcome to [contact me](/).

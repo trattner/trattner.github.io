@@ -4,6 +4,21 @@
   font-family: 'Alice', serif;
 }
 
+#book-wrapper{
+  width: 100%;
+  text-align: center;
+}
+
+.book-img{
+  width: 100%;
+}
+
+.book-item{
+  display: inline-block;
+  width: 235px;
+  margin: 10px;
+}
+
 /* Styling the area of the slides */
 #slideshow {
   overflow: hidden;
