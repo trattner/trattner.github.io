@@ -2,7 +2,7 @@
 layout: article
 title: Coach Andy's Chess Corner
 permalink: /chess/
-date: 2022-2-10
+date: 2022-4-7
 searchable: true
 ---
 
@@ -24,28 +24,18 @@ searchable: true
 ***[How To Teach Your Child Chess](/img/pdf/teach-chess.pdf)***. Don't pay $50-150+ for an hour of coaching. Read this free PDF in half that time! It will set you up for years of quality interactions with your kid, as you journey through chess and grow your relationship together.
 
 
-
-
-## Some Articles
-
-- [Learning Chess The Easy Way](/chess-the-easy-way)
-- [A Kid's Guide To Playing Chess](https://www.playgroundequipment.com/a-kids-guide-to-playing-chess/) (thanks Eli!)
-- [How I Published A Chess Book](/book-journey)
-
-
-## Recommended Resources
+## Resources and Articles
 
 - [Lichess.org](https://lichess.org/): the best chess website for playing online. Also has gamified learning material.
 - [Chesstempo.com](https://chesstempo.com/): the best tactics puzzle trainer. Great page on [motifs](https://chesstempo.com/tactical-motifs).
 - [The Opera Game](https://www.youtube.com/watch?v=VYp0hLD3a74): excellent YouTube video by John Bartholomew walking through Morphy's classic. One of the first things I will show kids who have successfully completed the minigame circuit.
 - [_Zurich 1953_](https://smile.amazon.com/Zurich-International-Chess-Tournament-Dover/dp/0486238008/): the best collection of grandmaster games for intermediate players (1200-1800) to play through, absorb, and make the leap to expert. After I spent a few months immersed in this book, I had a [breakout performance](http://www.uschess.org/msa/XtblMain.php?201304143242-14538125).
+- [Car Games](https://www.titlemax.com/resources/car-games-chess/): a bunch of chess-related links (thanks Ashley!)
 - [Acorn Chess](https://acornchess.com/): software platform for learning chess with minigames and endgames.
 - [ChessKid.com](https://www.chesskid.com/): minor-friendly website for playing and learning online.
-- [_Capablanca's Best Chess Endings_](https://smile.amazon.com/Capablancas-Best-Chess-Endings-Complete/dp/0486242498/), [_Life and Games of Mikhail Tal_](https://smile.amazon.com/Life-Games-Mikhail-Tal/dp/1857442024/), and [Fischer's _60 Memorable Games_](https://smile.amazon.com/My-Memorable-Games-Bobby-Fischer/dp/190638830X/).
-
-
-## Miscellaneous
-
+- [_Capablanca's Best Chess Endings_](https://smile.amazon.com/Capablancas-Best-Chess-Endings-Complete/dp/0486242498/), [_Life and Games of Mikhail Tal_](https://smile.amazon.com/Life-Games-Mikhail-Tal/dp/1857442024/), and [Fischer's _60 Memorable Games_](https://smile.amazon.com/My-Memorable-Games-Bobby-Fischer/dp/190638830X/): great books.
+- [A Kid's Guide To Playing Chess](https://www.playgroundequipment.com/a-kids-guide-to-playing-chess/) (thanks Eli!)
+- [Learning Chess The Easy Way](/chess-the-easy-way) and [How I Published A Chess Book](/book-journey): a couple of my blog posts.
 - [Welcome To The Magical World Of Chess](https://docs.google.com/document/d/16KI3_InewwL1buMQ2OS4-JvS9ADO8GaVo1rhialNn44/edit): bunch of fun links.
 - [Minigame reference doc](https://docs.google.com/document/d/1qT-mld9vyQHdu9UxafQy8i8td9BzLBKg5ryvLRCPAvs/edit#bookmark=id.yxfh71qf0jvp).
 - [Diagram tool](/chessboard).
