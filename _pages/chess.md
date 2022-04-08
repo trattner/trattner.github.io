@@ -44,7 +44,7 @@ searchable: true
 
 ## About
 
-Coach Andy is a [chess expert](https://en.wikipedia.org/wiki/Chess_title#Expert) who has taught hundreds of students to love the game (across all ages, backgrounds, and levels of reluctance). He believes you're never to young nor too old to start enjoying chess!
+Coach Andy is a [chess expert](https://en.wikipedia.org/wiki/Chess_title#Expert) who has taught hundreds of students to love the game (across all ages, backgrounds, and levels of reluctance). He believes you're never too young nor too old to start enjoying chess!
 
 ![](/img/teaching-chess.png#L)
 
