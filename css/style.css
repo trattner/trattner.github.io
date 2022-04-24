@@ -13,6 +13,10 @@
   width: 100%;
 }
 
+.logo-img{
+  width: 50%;
+}
+
 .book-item{
   display: inline-block;
   width: 235px;
