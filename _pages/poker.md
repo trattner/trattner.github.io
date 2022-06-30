@@ -27,7 +27,7 @@ Given that there's a nontrivial underlying chance (>10%) to lose the day's cash 
 
 <br>
 
-<i>Reposted on 6/29/22 from an old website portfolio turned [github repo](https://github.com/trattner/atratt/blob/master/_posts/2019-1-25-poker-sim.md).</i>
+<i>Reposted on 6/29/22 from an [old web portfolio](https://github.com/trattner/atratt/blob/master/_posts/2019-1-25-poker-sim.md).</i>
 
 
 <!--For 5 players, bust 0.7078 (0.0705348140991) and cashout 0.2574 (0.0700088565826).
