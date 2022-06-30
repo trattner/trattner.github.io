@@ -1,6 +1,6 @@
 ---
 layout: about
-title: "Texas Hold'em Is A Bad Bet"
+title: Texas Hold'em Is A Bad Bet
 permalink: /poker/
 date: 2019-1-25
 description: 'My thoughts on playing poker professionally from 2018.'
