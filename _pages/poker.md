@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 'Texas Hold&#39;em Is A Bad Bet'
+title: "Texas Hold'em Is A Bad Bet"
 permalink: /poker/
 date: 2019-1-25
 description: 'My thoughts on playing poker professionally from 2018.'
@@ -25,7 +25,9 @@ It's been well-documented that beyond some basic mathematical understanding, fol
 
 Given that there's a nontrivial underlying chance (>10%) to lose the day's cash based on the simplified math alone, and moreover that a large part of the poker life is tuning metagame factors rather than purely competing on game strategy, I would not recommend playing hold'em as a satisfying nor mentally healthy way to earn a wage.
 
-<i>Reposted from an [old website portfolio turned github repo](https://github.com/trattner/atratt/blob/master/_posts/2019-1-25-poker-sim.md)</i>
+<br>
+
+<i>Reposted on 6/29/22 from an old website portfolio turned [github repo](https://github.com/trattner/atratt/blob/master/_posts/2019-1-25-poker-sim.md).</i>
 
 
 <!--For 5 players, bust 0.7078 (0.0705348140991) and cashout 0.2574 (0.0700088565826).
@@ -33,11 +35,11 @@ For 6 players, bust 0.2666 (0.0668164650367) and cashout 0.7314 (0.0670077607446
 For 7 players, bust 0.1692 (0.0573703756306) and cashout 0.8308 (0.0573703756306).
 For 8 players, bust 0.1588 (0.053726715887) and cashout 0.8412 (0.053726715887)-->
 
-[table1]: https://github.com/trattner/atratt/blob/master/img/poker-sim/ranking-top.png#L
-[table2]: https://github.com/trattner/atratt/blob/master/img/poker-sim/ranking-bottom.png#L
-[table3]: https://github.com/trattner/atratt/blob/master/img/poker-sim/ranking-middle.png#L
+[table1]: https://raw.githubusercontent.com/trattner/atratt/f3d6c0d6d0c122af2b56531209372dd7d1390a34/img/poker-sim//ranking-top.png#L
+[table2]: https://raw.githubusercontent.com/trattner/atratt/f3d6c0d6d0c122af2b56531209372dd7d1390a34/img/poker-sim//ranking-bottom.png#L
+[table3]: https://raw.githubusercontent.com/trattner/atratt/f3d6c0d6d0c122af2b56531209372dd7d1390a34/img/poker-sim//ranking-middle.png#L
 
-[n5]: https://github.com/trattner/atratt/blob/master/img/poker-sim/5-bust.png#L
-[n6]: https://github.com/trattner/atratt/blob/master/img/poker-sim/6-bust.png#L
-[n7]: https://github.com/trattner/atratt/blob/master/img/poker-sim/7-bust.png#L
-[n8]: https://github.com/trattner/atratt/blob/master/img/poker-sim/8-win.png#L
+[n5]: https://raw.githubusercontent.com/trattner/atratt/f3d6c0d6d0c122af2b56531209372dd7d1390a34/img/poker-sim//5-bust.png#L
+[n6]: https://raw.githubusercontent.com/trattner/atratt/f3d6c0d6d0c122af2b56531209372dd7d1390a34/img/poker-sim//6-bust.png#L
+[n7]: https://raw.githubusercontent.com/trattner/atratt/f3d6c0d6d0c122af2b56531209372dd7d1390a34/img/poker-sim/7-bust.png#L
+[n8]: https://raw.githubusercontent.com/trattner/atratt/f3d6c0d6d0c122af2b56531209372dd7d1390a34/img/poker-sim/8-win.png#L

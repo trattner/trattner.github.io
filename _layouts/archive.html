@@ -134,7 +134,7 @@ SimpleJekyllSearch({
           var br = document.createElement("br");
 
           var post_title = document.createElement("span");
-          post_title.textContent = item.title;
+          post_title.textContent = item.title.replace('&amp;', '&');
           post_title.className="archive-title";
           post_link.appendChild(post_title);
           post_link.appendChild(br);
