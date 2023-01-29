@@ -6,6 +6,13 @@ date: 2022-4-7
 searchable: true
 ---
 
+## My Free Books
+
+***[How To Enjoy Chess for Adult Beginners](/img/pdf/enjoy-chess.pdf)***. Become a chess insider, starting from scratch, while having a blast! This is the world's most complete + concise + fun guide to chess.
+
+***[How To Teach Your Child Chess](/img/pdf/teach-chess.pdf)***. Don't pay $50-150+ for an hour of coaching. Read this free PDF in half that time! It will set you up for years of quality interactions with your kid, as you journey through chess and grow your relationship together.
+
+
 ## Quick-Start Videos
 
 [Learn Piece Fundamentals](https://www.youtube.com/playlist?list=PLHXGGjSGT0pKHLbo07upLMdIlhv8Ac27m) - start here! Minigames are the best way for adult beginners to build chess confidence while having fun with a partner.
@@ -15,13 +22,6 @@ searchable: true
 [Develop Further Chess Understanding](https://www.youtube.com/playlist?list=PLHXGGjSGT0pKpOhH3CkTHFXkyCfq3ojlW) - to take things beyond friends and family, you want to find the right balance between playing games, solving puzzles, and learning from grandmasters.
 
 [How To Teach Your Child](https://www.youtube.com/playlist?list=PLHXGGjSGT0pJamqiCFadG0j7rqARimv4o) - the most fun, fast, effective way to introduce young ones to the game! No background required (for you or your little learner).
-
-
-## My Free Books
-
-***[How To Enjoy Chess for Adult Beginners](/img/pdf/enjoy-chess.pdf)***. Become a chess insider, starting from scratch, while having a blast! This is the world's most complete + concise + fun guide to chess.
-
-***[How To Teach Your Child Chess](/img/pdf/teach-chess.pdf)***. Don't pay $50-150+ for an hour of coaching. Read this free PDF in half that time! It will set you up for years of quality interactions with your kid, as you journey through chess and grow your relationship together.
 
 
 ## Resources and Articles
