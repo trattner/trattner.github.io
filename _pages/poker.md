@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: article
 title: Texas Hold'em Is A Bad Bet
 permalink: /poker/
 date: 2019-1-25
