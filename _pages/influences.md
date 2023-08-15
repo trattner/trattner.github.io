@@ -2,9 +2,11 @@
 layout: article-influences
 title: My Greatest Influences
 permalink: /influences/
-date: 2021-2-25
+date: 2023-8-15
 searchable: true
 ---
+
+<!--last edit before 2023: 2021-2-25-->
 
 ## Religious Touchstones
 
@@ -16,17 +18,20 @@ searchable: true
 
 4. _[Dan Harris on Becoming 10% Happier](https://tim.blog/2020/11/19/dan-harris/)_ and _[The Feeling Buddha](https://us.macmillan.com/books/9780312295097)_. Tim Ferriss and David Brazier help us pause, breathe, and enjoy. <!-- spirituality, spiritual enlightenment? -->
 
+5. [The All-In Podcast](https://linktr.ee/allinpodcast). Big [fan](https://world.hey.com/tratt/the-bards-of-our-day-4005293f).
+
+
 ## Useful Ideas and Tools
 
 1. [The 80,000 Hours Podcast](https://80000hours.org/podcast/). I was hooked after listening to the [Case Against Education](https://80000hours.org/podcast/episodes/bryan-caplan-case-for-and-against-education/) and [Why We Have To Lie To Ourselves](https://80000hours.org/podcast/episodes/robin-hanson-on-lying-to-ourselves/).
 
-2. _[The Defining Decade](https://smile.amazon.com/Defining-Decade-Your-Twenties-Matter/dp/0446561754/)_ and _[Men Are from Mars, Women Are from Venus](https://smile.amazon.com/gp/product/0060574216/)_. Essential guides for gracefully maturing into adulthood.
+2. _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_, _[Stubborn Attachments](https://smile.amazon.com/Stubborn-Attachments-Prosperous-Responsible-Individuals/dp/1732265135/)_, and _[The Snowball: Warren Buffett](https://smile.amazon.com/Snowball-Warren-Buffett-Business-Life/dp/0553384619/)_. Big-picture context, long-term thinking.
 
-3. _[Sapiens](https://www.ynharari.com/book/sapiens-2/)_, _[Stubborn Attachments](https://smile.amazon.com/Stubborn-Attachments-Prosperous-Responsible-Individuals/dp/1732265135/)_, and _[The Snowball: Warren Buffett](https://smile.amazon.com/Snowball-Warren-Buffett-Business-Life/dp/0553384619/)_. Big-picture context, long-term thinking.
+3. _[It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm){:id="rework"}_ (preferred vs [_Rework_](https://basecamp.com/books/rework)). The operating system for a calm company with generous policies.
 
-4. _[It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm){:id="rework"}_ (preferred vs [_Rework_](https://basecamp.com/books/rework)). The operating system for a calm company with generous policies.
+4. _[The Defining Decade](https://smile.amazon.com/Defining-Decade-Your-Twenties-Matter/dp/0446561754/)_ and _[Men Are from Mars, Women Are from Venus](https://smile.amazon.com/gp/product/0060574216/)_. Essential guides for gracefully maturing into adulthood.
 
-5. _[Thinking Fast and Slow](https://smile.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)_, [Jim Collins](https://tim.blog/guest/jim-collins/), _[Give and Take](https://smile.amazon.com/Give-Take-Helping-Others-Success/dp/0143124986/)_, [Paul Graham](http://paulgraham.com/articles.html). Selected interesting and important works.
+5. _[Thinking Fast and Slow](https://smile.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/)_, [Jim Collins](https://tim.blog/guest/jim-collins/), _[Give and Take](https://smile.amazon.com/Give-Take-Helping-Others-Success/dp/0143124986/)_, [Paul Graham](http://paulgraham.com/articles.html), [Derek Sivers](https://sive.rs/). Selected interesting and important works.
 
 
 ## Captivating and Beautiful
