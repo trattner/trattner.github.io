@@ -35,6 +35,7 @@ searchable: true
 - [ChessKid.com](https://www.chesskid.com/): minor-friendly website for playing and learning online.
 - [_Capablanca's Best Chess Endings_](https://smile.amazon.com/Capablancas-Best-Chess-Endings-Complete/dp/0486242498/), [_Life and Games of Mikhail Tal_](https://smile.amazon.com/Life-Games-Mikhail-Tal/dp/1857442024/), and [Fischer's _60 Memorable Games_](https://smile.amazon.com/My-Memorable-Games-Bobby-Fischer/dp/190638830X/): great books.
 - [A Kid's Guide To Playing Chess](https://www.playgroundequipment.com/a-kids-guide-to-playing-chess/) (thanks Eli!)
+- [Another Guide To Playing Chess](https://www.aaastateofplay.com/kids-games-a-guide-to-playing-chess) (thanks Ethan!)
 - [Learning Chess The Easy Way](/chess-the-easy-way) and [How I Published A Chess Book](/book-journey): a couple of my blog posts.
 - [Welcome To The Magical World Of Chess](https://docs.google.com/document/d/16KI3_InewwL1buMQ2OS4-JvS9ADO8GaVo1rhialNn44/edit): bunch of fun links.
 - [Minigame reference doc](https://docs.google.com/document/d/1qT-mld9vyQHdu9UxafQy8i8td9BzLBKg5ryvLRCPAvs/edit#bookmark=id.yxfh71qf0jvp).
