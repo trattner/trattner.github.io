@@ -53,13 +53,30 @@
     <div class="article">
       <article>
         <h1 class="post-title">
+          Latest
+        </h1>
+
+        <div class="post-body" id="recent-title">
+          <p id="loading-wrapper">
+            <span id="loading-message"><i>Loading recent posts</i></span>
+          </p>
+        </div>
+
+        <h1 class="post-title" id="about">
           Andy Trattner
         </h1>
 
         <div class="post-body">
           <p>
-            I'm building <a href="https://shuffle.dating" target="_blank">Shuffle Dating</a>. We were <a href="https://www.kuow.org/stories/these-seattleites-tried-to-stop-swiping" target="_blank">recently featured on NPR's Seattle Now Podcast</a>!
+            I'm currently building <a href="https://shuffle.dating" target="_blank">Shuffle Dating</a>. NPR featured us in this fun 15-minute podcast: <a href="https://www.kuow.org/stories/these-seattleites-tried-to-stop-swiping" target="_blank">"These These Seattleites Tried to Stop Swiping"</a>.
           </p>
+
+          <p>
+            Grew up in Wisconsin, graduated early <a href="/img/18c-diploma.png" target="_blank">from MIT</a>, <a href="/losing-1m">one-time</a> <a href="/chess">bughouse partner</a> to <a href="/Scale-AI">Alex Wang</a>, former <a href="https://leanonme.chat/" target="_blank">socialist capitalism-hater</a>... I now battle an addiction to <a href="/poker">poker</a> and <a href="/influences">worship</a> <a href="https://world.hey.com/tratt/seth-just-mentioned-me-e3dc577a">Seth Godin</a>.
+          </p>
+
+
+          <!--
 
           <p>
             Grew up in Wisconsin, made <a href="/atratt/img/papers/ccfeu2.pdf" target="_blank">bubbles on the space station</a>, <a href="/img/18c-diploma.png" target="_blank">bounced around MIT</a>, and wore a bunch of hats <a href="/losing-1m">early</a> at <a href="/Scale-AI">Scale AI</a>. Failed at <a href="https://world.hey.com/tratt/failure-is-part-of-the-thing-f313875e" target="_blank">payments</a>, <a href="https://world.hey.com/tratt/el-gordo-sano-is-dead-be56520a" target="_blank">restaurants</a>, <a href="/construction-strugs" target="_blank">real estate</a>, and <a href="https://leanonme.chat/" target="_blank">a hackathon project</a>.
@@ -69,8 +86,6 @@
             I <a href="/blog">blog</a>, <a href="/influences">worship</a> <a href="https://world.hey.com/tratt/seth-just-mentioned-me-e3dc577a" target="_blank">Seth Godin</a>, and enjoy <a href="/chess">chess</a> + <a href="/poker">poker</a>. Half the words above are links to various adventures, and you can also click on each of the pictures <a href="#slideshow">&darr;</a>
           </p>
 
-
-          <!--
             https://ntrs.nasa.gov/citations/20160001341
 
           I'm an <a href="/img/18c-diploma.png" target="_blank">engineer</a> with the heart of an educator and the spirit of an entrepreneur. I live in <a href="/love-ecuador">Ecuador</a>, where I work on <a href="https://www.banconect.com" target="_blank">payments</a>. I <a href="/blog">blog</a> and <a href="https://theandypod.com" target="_blank">podcast</a> thanks to <a href="https://seths.blog" target="_blank">Seth</a> as one of my biggest <a href="/influences">influences</a>. Originally from Wisconsin, I enjoy <a href="https://world.hey.com/tratt/all-in-on-sukkha-wasi-c4449c96">food</a>, <a href="/poker">poker</a>, and <a href="/chess">chess</a>.-->
@@ -102,6 +117,94 @@
       </article>
     </div>
   </div>
+
+  <!-- Configuration -->
+  <script>
+
+    $(document).ready(function(){
+      const feedURL = 'https://world.hey.com/tratt/feed.atom';
+      var load_elem = document.getElementById('loading-message');
+      var n_periods = 0;
+      var int_fn = setInterval(function(){
+        load_elem.innerHTML += " .";
+        n_periods += 1;
+        if (n_periods > 5){
+          load_elem.innerHTML += "<br>oops! got a (timeout) error, <br>go to <a href='/blog'>blog archive HERE &rightarrow;</a><br><br>"
+          clearInterval(int_fn);
+        }
+      }, 200);
+
+      $.ajax({
+        type: 'GET',
+        url: "https://api.rss2json.com/v1/api.json?rss_url=" + feedURL,
+        dataType: 'jsonp',
+        success: function(result) {
+          console.log(result);
+
+          var container = document.createElement("div");
+
+          var n_to_show = 2;
+          var counter = 1;
+
+          for (item of result.items){
+            var post_tile = document.createElement("p");
+            var post_link = document.createElement("a");
+            post_link.href = item.link;
+            var br = document.createElement("br");
+            var post_title = document.createElement("span");
+            post_title.textContent = item.title.replace('&amp;', '&');
+            post_title.style.fontSize = "1.35em";
+            post_link.appendChild(post_title);
+
+            var date = new Date(Date.parse(item.pubDate));
+            var date_string = date.getMonth() + 1 +' / ' + date.getDate() + ' / ' + (date.getFullYear()-2000).toString();
+            var post_date = document.createElement("span");
+            post_date.textContent = date_string;
+            post_date.style.float = "right";
+            post_date.style.fontSize = "0.9em";
+            post_link.appendChild(post_date);
+
+            var content = document.createElement("span");
+            content.innerHTML = item.description;
+            var preview_link = document.createElement("a");
+            preview_link.href = item.link;
+            preview_link.className = "preview"; // Remove underline on hover";
+            var preview = document.createElement("span");
+            preview.innerText = content.innerText.substring(0, 76) + '...';
+            preview.style.lineHeight = "0.8";
+            preview.style.fontSize = "1em";
+            //TODO: still weird the lineheigh isn't working right...
+
+            preview_link.appendChild(preview);
+
+            post_tile.appendChild(post_link);
+            post_tile.appendChild(preview_link);
+            container.appendChild(post_tile);
+
+            if (counter == n_to_show){
+              document.getElementById("loading-wrapper").remove();
+              var more_wrapper = document.createElement("p")
+              var link = document.createElement("a");
+              link.innerHTML = 'more &rightarrow;';
+              link.href = '/blog';
+              link.style.fontStyle = 'italic';
+              link.style.fontSize = '0.8em';
+              link.style.float = "right";
+              more_wrapper.appendChild(link);
+              container.appendChild(more_wrapper);
+              break;
+            }
+
+            counter += 1;
+
+          }
+          document.getElementById('recent-title').appendChild(container);
+          load_elem.style.height='0px';
+          load_elem.style.display='none';
+        }
+      });
+    });
+  </script>
 
 </body>
 </html>

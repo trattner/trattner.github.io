@@ -23,6 +23,10 @@
   margin: 10px;
 }
 
+#recent-title{
+  margin-bottom: 4em;
+}
+
 /* Styling the area of the slides */
 #slideshow {
   overflow: hidden;
@@ -323,6 +327,14 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+
+a.preview {
+  color: black;
+  font-style: italic;
+}
+a.preview:hover {
+  text-decoration: none;
 }
 
 .icon-container{
