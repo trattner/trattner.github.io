@@ -68,6 +68,16 @@
 
         <div class="post-body">
           <p>
+            Currently bootstrapping <a href="https://shuffle.dating" target="_blank">Shuffle Dating</a>.
+            Grew up in Wisconsin, graduated early <a href="/img/18c-diploma.png" target="_blank">from MIT</a> and <a href="/losing-1m">Scale AI</a>.
+            Always down for <a href="/chess">chess</a>, <a href="/poker">poker</a>, and <a href="/influences">the All-In Podcast</a>.
+            More on my <a href="/now">"now" page &rightarrow;</a>
+          </p>
+
+
+
+          <!--
+          <p>
             I'm currently building <a href="https://shuffle.dating" target="_blank">Shuffle Dating</a>. NPR featured us in this fun 15-minute podcast: <a href="https://www.kuow.org/stories/these-seattleites-tried-to-stop-swiping" target="_blank">"These Seattleites Tried to Stop Swiping"</a>.
           </p>
 
@@ -76,7 +86,6 @@
           </p>
 
 
-          <!--
 
           <p>
             Grew up in Wisconsin, made <a href="/atratt/img/papers/ccfeu2.pdf" target="_blank">bubbles on the space station</a>, <a href="/img/18c-diploma.png" target="_blank">bounced around MIT</a>, and wore a bunch of hats <a href="/losing-1m">early</a> at <a href="/Scale-AI">Scale AI</a>. Failed at <a href="https://world.hey.com/tratt/failure-is-part-of-the-thing-f313875e" target="_blank">payments</a>, <a href="https://world.hey.com/tratt/el-gordo-sano-is-dead-be56520a" target="_blank">restaurants</a>, <a href="/construction-strugs" target="_blank">real estate</a>, and <a href="https://leanonme.chat/" target="_blank">a hackathon project</a>.
@@ -101,7 +110,7 @@
                     <a href="https://wendytrattner.com" target="_blank"><img class="slide-img" src="/img/nice-landing-images/2-close-banos.jpg"/></a>
                 </div>
                 <div class="slide">
-                    <a href="https://andytrattner.com/scuba-diving.html"><img class="slide-img" src="/img/nice-landing-images/3-diving.jpg"/></a>
+                    <a href="/scuba-diving"><img class="slide-img" src="/img/nice-landing-images/3-diving.jpg"/></a>
                 </div>
                 <div class="slide">
                     <a href="https://sukkhawasi.com" target="_blank"><img class="slide-img" src="/img/nice-landing-images/4-maya.jpg"/></a>
@@ -128,7 +137,7 @@
       var int_fn = setInterval(function(){
         load_elem.innerHTML += " .";
         n_periods += 1;
-        if (n_periods > 5){
+        if (n_periods > 10){
           load_elem.innerHTML += "<br>oops! got a (timeout) error, <br>go to <a href='/blog'>blog archive HERE &rightarrow;</a><br><br>"
           clearInterval(int_fn);
         }
@@ -170,7 +179,7 @@
             preview_link.href = item.link;
             preview_link.className = "preview"; // Remove underline on hover";
             var preview = document.createElement("span");
-            preview.innerText = content.innerText.substring(0, 76) + '...';
+            preview.innerText = '\n'+content.innerText.substring(0, 76).trimStart() + '...';
             preview.style.lineHeight = "0.8";
             preview.style.fontSize = "1em";
             //TODO: still weird the lineheigh isn't working right...
@@ -185,7 +194,7 @@
               document.getElementById("loading-wrapper").remove();
               var more_wrapper = document.createElement("p")
               var link = document.createElement("a");
-              link.innerHTML = 'more &rightarrow;';
+              link.innerHTML = 'more blog &rightarrow;';
               link.href = '/blog';
               link.style.fontStyle = 'italic';
               link.style.fontSize = '0.8em';
