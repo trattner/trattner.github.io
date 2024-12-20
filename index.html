@@ -179,7 +179,7 @@
             preview_link.href = item.link;
             preview_link.className = "preview"; // Remove underline on hover";
             var preview = document.createElement("span");
-            preview.innerText = '\n'+content.innerText.substring(0, 76).trimStart() + '...';
+            preview.innerText = '\n'+content.innerText.substring(0, 76).trim() + '...';
             preview.style.lineHeight = "0.8";
             preview.style.fontSize = "1em";
             //TODO: still weird the lineheigh isn't working right...
