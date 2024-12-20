@@ -161,7 +161,7 @@
             post_link.href = item.link;
             var br = document.createElement("br");
             var post_title = document.createElement("span");
-            post_title.textContent = item.title.replace('&amp;', '&');
+            post_title.textContent = item.title.replace('&amp;', '&').replace('&quot;','"');
             post_title.style.fontSize = "1.35em";
             post_link.appendChild(post_title);
 
