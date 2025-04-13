@@ -8,10 +8,10 @@ searchable: true
 
 Redirecting to books written by andy...
 
-to [YourMovePublishing.com](https://yourmovepublishing.com)
+to [https://andytrattner.com/chess](https://andytrattner.com/chess)
 
 <script>
 window.onload = function () {
-  window.location.href="https://yourmovepublishing.com";
+  window.location.href="/chess";
 }
 </script>
