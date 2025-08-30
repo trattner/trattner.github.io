@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Portland teen Andy Trattner, tops in Oregon at chess, Spanish, robotics, lends talent to NASA
-permalink: /about/
+permalink: /high-school/
 date: 2014-5-13
 description: 'Portland teen Andy Trattner, tops in Oregon at chess, Spanish, robotics, lends talent to NASA - Betsy Hammond, The Oregonian / OregonLive'
 searchable: false
@@ -65,14 +65,3 @@ _By Betsy Hammond | The Oregonian / OregonLive_
 _Updated: May. 13, 2014, 6:07 p.m. | Published: May. 13, 2014, 5:07 p.m._
 
 ![](/img/high-school-article.jpeg#S)
-
-
-
-
-
-
-
-
-
-
-
